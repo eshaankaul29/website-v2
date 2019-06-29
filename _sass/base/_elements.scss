@@ -1,0 +1,33 @@
+body {
+    background-color: $siteBackground;
+    height: 100%;
+    overflow: auto;
+    transition: all $durationLong ease;
+}
+
+html {
+    background-color: $siteBackground;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+button:focus {
+    outline: none;
+}
+
+p > a {
+    text-decoration: none;
+    color: $white;
+}
+
+a {
+    text-decoration: none;
+    color: $grey400;
+}
+
+li {
+    list-style: none;
+}

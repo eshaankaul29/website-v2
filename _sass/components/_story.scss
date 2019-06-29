@@ -1,0 +1,64 @@
+.story {
+    margin: 0 auto $spaceExtraLarge auto;
+    width: 50%;
+    transform: translateY(50px);
+    transition: all $durationExtraLong $bezierEaseOut;
+    opacity: 0;
+
+    @media (max-width: $breakpointSmall) {
+        width: 100%;
+    }
+}
+
+.story-title {
+    margin-bottom: 2em;
+    font: $heading-2;
+    color: $white;
+}
+
+.story-date {
+    font: $bodySmall;
+    color: $grey400;
+    margin-bottom: $spaceLarge;
+    display: inline-block;
+
+    @media (max-width: $breakpointSmall) {
+        margin-bottom: 5.3em;
+    }
+}
+
+.story-loaded {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.story-section {
+    position: relative;
+    margin-bottom: $spaceMedium;
+}
+
+.story-section-label {
+    position: absolute;
+    text-align: right;
+    width: 100px;
+    transform: translateX(-130%);
+    font: $bodyRegular;
+    color: $white;
+    margin-bottom: 1rem;
+
+    @media (max-width: $breakpointSmall) {
+        position: relative;
+        text-align: left;
+        transform: none;
+    }
+}
+
+.story-section-paragraph {
+   font: $bodyRegular;
+	color: $grey400;
+	margin-bottom: .8em;
+
+    > a {
+        color: $white;
+    }
+}

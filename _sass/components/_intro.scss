@@ -1,0 +1,70 @@
+.intro {
+    margin: 0 auto;
+    text-align: left;
+}
+
+.intro-greeting {
+    color: $accent;
+    display: block;
+    opacity: 0;
+    font: $heading-1;
+
+    transition: all 1.5s ease;
+
+    @media (max-width: $breakpointSmall) {
+        font-size: 3rem;
+    }
+}
+
+.intro-bio {
+    color: $white;
+    display: block;
+    opacity: 0;
+    font: $heading-1;
+
+    transition: all 1.5s ease;
+
+    @media (max-width: $breakpointSmall) {
+        font-size: 3rem;
+    }
+}
+
+.intro-loaded {
+    opacity: 1;
+}
+
+.intro-scroll {
+    position: absolute;
+    bottom: 4.8em;
+    height: 44px;
+    width: 28px;
+    border-width: 1px;
+    border-color: $grey300;
+    border-style: solid;
+    border-radius: 100px;
+    display: block;
+    opacity: 0;
+
+    transition: all 1.5s ease;
+
+    > div {
+      display: block;
+      width: 8px;
+      height: 8px;
+      background-color: $accent;
+      border-radius: 4px;
+      margin-left: 9px;
+      margin-top: 4px;
+
+      animation: scrollWheel 2s infinite 3s;
+      transition: all $durationShort $bezierEaseOut;
+   }
+
+    @media (max-width: $breakpointSmall) {
+        visibility: hidden;
+    }
+}
+
+.intro-scroll-loaded {
+    opacity: 1;
+}

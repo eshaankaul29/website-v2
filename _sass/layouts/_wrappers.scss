@@ -1,0 +1,92 @@
+.wrapper-home {
+   padding: 0 23%;
+
+   @media (max-width: $breakpointLarge) {
+       padding: 0 16%;
+   }
+
+   @media (max-width: $breakpointMedium) {
+       padding: 0 12.5%;
+   }
+
+   @media (max-width: $breakpointSmall) {
+      padding: 0 8%;
+   }
+}
+
+.wrapper-intro {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.wrapper-post {
+    padding: 0 23%;
+    margin: 0 auto;
+    position: relative;
+
+    @media (max-width: $breakpointLarge) {
+        padding: 0 16%;
+    }
+
+    @media (max-width: $breakpointMedium) {
+       padding: 0 12.5%;
+    }
+
+    @media (max-width: $breakpointSmall) {
+        width: 100%;
+        padding: 10.4em 8% 0 8%;
+    }
+}
+
+#projects {
+    width: 100%;
+    margin-bottom: $spaceMega;
+
+
+
+    // @media (max-width: $breakpointLarge) {
+    //     width: 75%;
+    // }
+    //
+    // @media (max-width: $breakpointSmall) {
+    //     width: 90%;;
+    // }
+}
+
+#writing {
+   margin-bottom: $spaceMega;
+}
+
+#about {
+   @extend %clearfix;
+
+   margin-bottom: $spaceMega;
+
+   h3 {
+      font: $heading-3;
+      color: $white;
+   }
+}
+
+#projects, #writing, #about {
+   > h2 {
+     font: $heading-2;
+     color: $white;
+     margin-bottom: $spaceSmall;
+
+     @media (max-width: $breakpointMedium) {
+
+     }
+  }
+
+   &:before {
+      display: block;
+      content: " ";
+      margin-top: -210px;
+      height: 210px;
+      visibility: hidden;
+      pointer-events: none;
+   }
+}

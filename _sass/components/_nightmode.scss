@@ -1,0 +1,17 @@
+.nightmode-background {
+    background-color: $grey200;
+}
+
+.nightmode-text-light {
+    color: $grey500;
+}
+
+.nightmode-text-dark {
+    color: $grey400;
+}
+
+.nightmode-shapes-triangle {
+    &:after {
+        border-color: transparent transparent $grey200 transparent !important;
+    }
+}

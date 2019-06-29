@@ -1,0 +1,281 @@
+.tile-work {
+	width: 100%;
+	height: 17.5em;
+	position: relative;
+	z-index: 0;
+
+	@media (max-width: $breakpointMedium) {
+		height: 100%;
+		width: 100%;
+	}
+
+	> a {
+		display: flex;
+		align-items: center;
+		height: 100%;
+		z-index: 1;
+
+		transition: all $durationLong $bezierEaseOut;
+
+		&:before {
+			content: '';
+			display: block;
+			position: absolute;
+			top: -1px;
+			bottom: -1px;
+			left: -2.5em;
+			right: -2.5em;
+			background-color: none;
+			z-index: -1;
+			border-radius: 10px;
+
+			transition: all $durationLong $bezierEaseOut;
+
+			@media (max-width: $breakpointSmall) {
+				display: none;
+			}
+		}
+
+		&:hover {
+			transform: scale(1.03);
+			// z-index: 1;
+
+			&:before {
+				background-color: $grey200;
+				box-shadow: $shadowTile;
+			}
+		}
+
+		@media (max-width: $breakpointMedium) {
+			display: block;
+			height: 100%;
+			width: 100%;
+			padding-top: $spaceLarge;
+
+			&:hover {
+				transform: none;
+
+				&:before {
+					background-color: none;
+					box-shadow: none;
+				}
+			}
+		}
+	}
+}
+
+.tile-work-loaded {
+    transform: translateY(0px);
+    opacity: 1;
+}
+
+.tile-work-thumbnail {
+	display: block;
+	width: 12.5em;
+	height: 12.5em;
+	border-radius: 10px;
+
+	@media (max-width: $breakpointMedium) {
+		width: 100%;
+		height: auto;
+		margin-bottom: $spaceLarge;
+	}
+}
+
+.tile-work-description {
+	padding-left: 2.5em;
+	width: 70%;
+
+	@media (max-width: $breakpointLarge) {
+		 width: 60%;
+	}
+
+	@media (max-width: $breakpointMedium) {
+		margin-bottom: $spaceLarge;
+		padding: 0;
+		width: 100%;
+	}
+}
+
+.tile-work-description-company {
+	background-color: $grey200Opacity;
+	font: $bodySmall;
+	color: $white;
+	height: 2em;
+	border-radius: 6px;
+	display: inline-block;
+	padding: 6px 8px;
+	margin-bottom: 1.5em;
+}
+
+.tile-work-description-company-large {
+	background-color: $grey200Opacity;
+	font: $bodyRegular;
+	color: $white;
+	height: 2em;
+	border-radius: 6px;
+	display: inline-block;
+	padding: 5px 8px;
+	margin-bottom: 1em;
+}
+
+.tile-work-description-title {
+	font: $heading-3;
+	color: $white;
+	margin-bottom: 0.5em;
+}
+
+.tile-work-description-summary {
+	font: $bodyRegular;
+	color: $grey400;
+	margin-bottom: $spaceSmall;
+}
+
+.tile-work-cta {
+	font: $cta;
+	color: $accent;
+}
+
+.tile-work-cta-disabled {
+	font: $cta;
+	color: $white;
+
+	> svg {
+		vertical-align: middle;
+		margin-top: -2px;
+		margin-left: 4px;
+	}
+}
+
+.tile-work-featured {
+	width: 100%;
+
+	button {
+		margin-bottom: 2.22222em;
+	}
+}
+
+.tile-work-description-featured {
+	width: 60%;
+
+	@media (max-width: $breakpointMedium) {
+		width: 100%;
+	}
+
+	@media (max-width: $breakpointSmall) {
+		width: 100%;
+	}
+}
+
+.tile-work-thumbnail-featured {
+	display: block;
+	width: 100%;
+	border-radius: 10px;
+	margin-bottom: 2.5em;
+}
+
+.tile-work, .tile-work-featured, .tile-writing {
+	&:after {
+		content: '';
+		background-color: $borderColor;
+		height: 1px;
+		width: 100%;
+		display: block;
+		z-index: 3;
+	}
+}
+
+.tile-writing {
+	width: 100%;
+	height: 17.5em;
+
+	@media (max-width: $breakpointSmall) {
+		height: auto;
+	}
+
+	> a {
+		display: flex;
+		align-items: center;
+		height: 100%;
+		position: relative;
+
+		transition: all $durationLong $bezierEaseOut;
+
+		&:before {
+			content: '';
+			display: block;
+			position: absolute;
+			top: -1px;
+			bottom: -1px;
+			left: -2.5em;
+			right: -2.5em;
+			background-color: transparent;
+			z-index: -1;
+			border-radius: 10px;
+
+			transition: all $durationLong $bezierEaseOut;
+
+			@media (max-width: $breakpointSmall) {
+				display: none;
+			}
+		}
+
+		&:hover {
+			transform: scale(1.03);
+
+			&:before {
+				background-color: $grey200;
+				box-shadow: $shadowTile;
+			}
+		}
+
+		@media (max-width: $breakpointSmall) {
+			margin: 2em 0;
+		}
+	}
+
+	&:before {
+		content: '';
+		background-color: $borderColor;
+		height: 1px;
+		width: 100%;
+		display: block;
+	}
+}
+
+.tile-writing-description {
+	width: 70%;
+
+	@media (max-width: $breakpointMedium) {
+		width: 100%;
+	}
+
+	@media (max-width: $breakpointSmall) {
+		// margin-bottom: 2em;
+	}
+}
+
+.tile-writing-description-title {
+	font: $heading-3;
+	color: $white;
+	margin-bottom: 0.5em;
+
+    @media (max-width: $breakpointMedium) {
+        font: $medium28;
+    }
+}
+
+.tile-writing-description-summary {
+	font: $bodyRegular;
+	color: $grey400;
+	margin-bottom: $spaceSmall;
+
+    @media (max-width: $breakpointMedium) {
+        font: $regular12;
+    }
+}
+
+.tile-writing-cta {
+	font: $cta;
+	color: $accent;
+}

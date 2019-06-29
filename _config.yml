@@ -1,0 +1,16 @@
+# Site settings
+title: Personal Website of Eshaan Kaul
+email: eshaankaul29@gmail.com
+description: "Product Guy living in Bengaluru."
+url: "http://eshaankaul.com/"
+twitter_username: syskaul
+
+# Build settings
+markdown: kramdown
+theme: minima
+permalink: none
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

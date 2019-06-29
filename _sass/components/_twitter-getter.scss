@@ -1,0 +1,57 @@
+.twitter-getter {
+    width: 45%;
+    float: left;
+
+    @media (max-width: $breakpointSmall) {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 3em;
+        float: none;
+    }
+}
+
+.twitter-getter-tweet {
+    color: $grey400;
+    font: $regular16;
+    margin-bottom: 1em;
+
+    > a {
+        color: $grey400;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    > img {
+        max-height: 1em;
+    }
+}
+
+.twitter-getter-time {
+    color: $grey500;
+    font: $regular16;
+    transition: opacity $durationMedium ease;
+    transform: translateX(20px);
+    position: relative;
+    display: inline-block;
+
+    &:hover {
+        opacity: .5;
+
+        &:before {
+            opacity: .5;
+        }
+    }
+
+    &:before {
+        transition: opacity $durationMedium ease;
+        content: '';
+        background-image: url("../images/twitter.svg");
+        height: 10.22px;
+        width: 12px;
+        display: block;
+        position: absolute;
+        left: -20px;
+        top: 8.5px;
+    }
+}
