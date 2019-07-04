@@ -4,11 +4,11 @@ $(document).ready(function() {
     var postHeader = $('.post-header');
 
     var postHero = $('#post-hero');
-    var story = $(".story");
+    var post = $(".post");
 
     // setup
     postHero.addClass("post-hero-loaded");
-    story.addClass("story-loaded");
+    post.addClass("post-loaded");
 
     $(window).scroll(function() {
         var scrollPos = $(this).scrollTop();

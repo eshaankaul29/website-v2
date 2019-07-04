@@ -1,9 +1,10 @@
 # Site settings
-title: Personal Website of Eshaan Kaul
-email: eshaankaul29@gmail.com
-description: "Product Guy living in Bengaluru."
-url: "http://eshaankaul.com/"
-twitter_username: syskaul
+title: The Portfolio of Eshaan Kaul
+email: eshaan.noffsinger@gmail.com
+description: "Product designer and prototyper living in San Francisco."
+url: "http://noff.me/"
+twitter_username: anoffsinger
+github_username:  anoffsinger
 
 # Build settings
 markdown: kramdown

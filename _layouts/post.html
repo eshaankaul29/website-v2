@@ -11,29 +11,29 @@
             <img id="post-hero" src="{{ page.heroMedia }}" />
         {% endif %}
         <div class="wrapper-post">
-            <section class="story">
+            <section class="post">
                <span class="tile-work-description-company-large">{{ page.company}}</span>
-                <h1 class="story-title">{{ page.title }}</h2>
-                <section class="story-section">
-                    <h3 class="story-section-label">Date</h3>
-                    <p class="story-section-paragraph">{{ page.shippedDate }}</p>
+                <h1 class="post-title">{{ page.title }}</h2>
+                <section class="post-section">
+                    <h3 class="post-section-label">Date</h3>
+                    <p class="post-section-paragraph">{{ page.shippedDate }}</p>
                 </section>
-                <section class="story-section">
-                    <h3 class="story-section-label">Overview</h3>
+                <section class="post-section">
+                    <h3 class="post-section-label">Overview</h3>
                     {% for paragraph in page.overview %}
-                        <p class="story-section-paragraph">{{ paragraph | textilize }}</p>
+                        <p class="post-section-paragraph">{{ paragraph | textilize }}</p>
                     {% endfor %}
                 </section>
-                <section class="story-section">
-                    <h3 class="story-section-label">Outcome</h3>
+                <section class="post-section">
+                    <h3 class="post-section-label">Outcome</h3>
                     {% for paragraph in page.outcome %}
-                        <p class="story-section-paragraph">{{ paragraph | textilize }}</p>
+                        <p class="post-section-paragraph">{{ paragraph | textilize }}</p>
                     {% endfor %}
                 </section>
-                <section class="story-section">
-                    <h3 class="story-section-label">Tools</h3>
+                <section class="post-section">
+                    <h3 class="post-section-label">Tools</h3>
                     {% for paragraph in page.tools %}
-                        <p class="story-section-paragraph">{{ paragraph | textilize }}</p>
+                        <p class="post-section-paragraph">{{ paragraph | textilize }}</p>
                     {% endfor %}
                 </section>
             </section>

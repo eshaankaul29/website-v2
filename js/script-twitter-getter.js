@@ -4,7 +4,7 @@
 *  www.jasonmayes.com
 *  Please keep this disclaimer with my code if you use it. Thanks. :-)
 *  Got feedback or questions, ask here:
-*  http://www.jasonmayes.com/projects/twitterApi/
+*  http://www.jasonmayes.com/work/twitterApi/
 *  Github: https://github.com/jasonmayes/Twitter-Post-Fetcher
 *  Updates will be posted to this site.
 *********************************************************************/
