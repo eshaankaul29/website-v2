@@ -1,0 +1,59 @@
+---
+title: Writing
+summary: Eshaan Kaul is product designer and prototyper living and working in San Francisco, California. Colorado-grown.
+---
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+    <body id="home">
+        
+      <header class="inner-header">
+         <a href="/index.html" class="logo">
+            <div class="logo-circle"></div>
+         </a>
+         <nav class="inner-header-nav">
+            <a href="/work.html">Work</a>
+            <a href="/writing.html">Writing</a>
+            <a href="/about.html">About</a>
+         </nav>
+     </header>
+
+        <!-- Main Header -->
+
+
+        <div class="wrapper-home">
+            <div class="wrapper-inner">
+            <!-- Work -->
+            <section id="writing">
+               <h2>Writing</h2>
+                <ol>
+                   {% for post in site.posts limit: 10 %}
+                           {% if post.categories contains 'writing' %}
+                              {% if post.type contains 'Featured' %}
+                              {% else %}
+                                 <li class="tile-writing">
+                                   <a href="{{ post.url }}">
+                                       <div class="tile-writing-description">
+                                          <h2 class="tile-writing-description-title">{{ post.title }}</h2>
+                                          <p class="tile-writing-description-summary">{{ post.summary }}</p>
+                                          <button class="tile-work-cta">Read More</button>
+                                       </div>
+                                   </a>
+                                 </li>
+                              {% endif %}
+                           {% endif %}
+                       {% endfor %}
+                </ol>
+              </section>
+
+
+         </div>
+
+
+      
+           {% include footer.html %}
+        </div>
+
+        {% include scripts.html %}
+    </body>
+</html>

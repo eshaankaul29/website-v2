@@ -21,6 +21,15 @@
     align-items: center;
 }
 
+
+.wrapper-inner {
+margin-top: 35%;
+   width: 100%;
+   display: flex;
+   align-items: center;
+}
+
+
 .wrapper-post {
     padding: 0 23%;
     margin: 0 auto;
@@ -43,6 +52,9 @@
 #work {
     width: 100%;
     margin-bottom: $spaceMega;
+    
+      transform: translateY(0);
+      opacity: 1;
 
 
 
@@ -56,7 +68,11 @@
 }
 
 #writing {
-   margin-bottom: $spaceMega;
+   width: 100%;
+    margin-bottom: $spaceMega;
+    
+      transform: translateY(0);
+      opacity: 1;
 }
 
 #about {

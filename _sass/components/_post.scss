@@ -1,5 +1,5 @@
 .post {
-    margin: 0 auto $spaceExtraLarge auto;
+    margin: 0 auto $spaceMedium auto;
     width: 80%;
     transform: translateY(50px);
     transition: all $durationExtraLong $bezierEaseOut;
@@ -11,7 +11,7 @@
 }
 
 .post-title {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     font: $heading-2;
     color: $white;
 }
@@ -95,8 +95,6 @@
 }
 
 
-
-
 ////post-text
 
 .post-paragraph-embedded {
@@ -110,6 +108,44 @@
         width: 100%;
     }
 }
+
+
+.post-paragraph-embedded-title {
+    display: block;
+    margin: 0 auto .8em auto;
+    width: 80%;
+    font: $bodyRegular;
+    color: $white;
+
+    @media (max-width: $breakpointSmall) {
+        width: 100%;
+    }
+}
+
+
+.post-paragraph-embedded-quote {
+    margin: 0.4em auto 0.4em auto;
+    padding: 2em 4em ;
+    font: $bodyQuote;
+    color: $grey400;
+    width: 80%;
+
+    @media (max-width: $breakpointSmall) {
+        width: 100%;
+    }
+}
+
+.post-paragraph-embedded-quote-last {
+    margin: 1.5em auto 5.7142857143em auto;
+    font: $bodyQuote;
+    color: $grey400;
+    width: 80%;
+
+    @media (max-width: $breakpointSmall) {
+        width: 100%;
+    }
+}
+
 
 .post-paragraph-embedded-last {
     margin: 0 auto 5.7142857143em auto;

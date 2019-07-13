@@ -1,6 +1,6 @@
 ---
 title: Eshaan Kaul
-summary: Eshaan Kaul is product designer and prototyper living and working in San Francisco, California. Colorado-grown.
+summary: Eshaan Kaul is a designer @ Playment working on Design Systems, in Bengaluru.
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -12,7 +12,7 @@ summary: Eshaan Kaul is product designer and prototyper living and working in Sa
             </a>
             <nav class="home-header-nav">
                <a href="/work.html">Work</a>
-               <a href="/writings.html">Writing</a>
+               <a href="/writing.html">Writing</a>
                <a href="/about.html">About</a>
             </nav>
         </header>
@@ -99,24 +99,22 @@ summary: Eshaan Kaul is product designer and prototyper living and working in Sa
            <section id="writing">
             <h2>Writing</h2>
              <ol>
-                <li class="tile-writing">
-                 <a href="https://medium.com/@ANoffsinger/the-man-who-saved-my-sister-53cf22dd23f4" target="_blank">
-                      <div class="tile-writing-description">
-                        <h2 class="tile-work-description-title">The Man Who Saved My Sister</h2>
-                        <p class="tile-work-description-summary">The story of my family's travels across China in 2018 to retrace my adopted sister's roots, which culminated in an experience none of us saw coming.</p>
-                        <button class="tile-work-cta">Read On Medium</button>
-                      </div>
-                 </a>
-                </li>
-                <li class="tile-writing">
-                 <a href="https://medium.com/re-write/5-questions-with-eshaan-noffsinger-senior-product-designer-dropbox-9e8550a155a3" target="_blank">
-                      <div class="tile-writing-description">
-                        <h2 class="tile-work-description-title">5 Questions with Eshaan Kaul, Senior Product Designer @ Dropbox</h2>
-                        <p class="tile-work-description-summary">An alumni interview with CMCI Studio where we talk about the future of design and how to grow as a creative.</p>
-                        <button class="tile-work-cta">Read On Medium</button>
-                      </div>
-                 </a>
-                </li>
+                {% for post in site.posts limit: 10 %}
+                        {% if post.categories contains 'writing' %}
+                           {% if post.type contains 'Featured' %}
+                           {% else %}
+                              <li class="tile-writing">
+                                <a href="{{ post.url }}">
+                                    <div class="tile-writing-description">
+                                       <h2 class="tile-writing-description-title">{{ post.title }}</h2>
+                                       <p class="tile-writing-description-summary">{{ post.summary }}</p>
+                                       <button class="tile-work-cta">Read More</button>
+                                    </div>
+                                </a>
+                              </li>
+                           {% endif %}
+                        {% endif %}
+                    {% endfor %}
              </ol>
            </section>
 
