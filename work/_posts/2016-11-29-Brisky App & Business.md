@@ -15,13 +15,12 @@ thumbnailDesc: Nomad home screen
 heroMedia: "../images/work/Brisky/Images/0.png"
 shippedDate: September 2016 - April 2017
 overview:
-    - Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.
-    - Key metrics include - 30,000+ users across iOS and Android. 5,000+ MAUs- 8,000+ recommendations. 28-Day retention of 30%.
+  - Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.
+  - Key metrics include - 30,000+ users across iOS and Android. 5,000+ MAUs- 8,000+ recommendations. 28-Day retention of 30%.
 
-outcome:
-    <TBA>
+outcome: <TBA>
 platform:
-    - iOS & Android
+  - iOS & Android
 ---
 
 <img src="../images/work/Brisky/Images/1.png">{: .post-image}
@@ -79,7 +78,6 @@ Accepting a collection from a sender also “subscribes“ the receiver to the c
 Products aren't built just as a function of the singular team, but when shots are fired from all cylinders. - Jatin Bhatia
 {: .post-caption}
 
-
 Brisky Business
 {: .post-paragraph-embedded-title}
 
@@ -89,7 +87,7 @@ Brisky Business helps brick and mortar businesses(restaurants) automate their cu
 For Brisky Business, I laid the foundation of the product whose primary users were managers and the representatives of the restaurants who check-in customers.We observed that the restaurant industry has always had a great desire to adopt new technologies and make data-driven decisions. However, like any other end-user, they are not willing to put the effort of going through charts, deriving correlations and splicing data sets to get the insights. What they are looking for is someone to tell them what actions they should take.
 {: .post-paragraph-embedded}
 
-Key Metrics Include: 60 paying clients with ARR of $40,000. NPS of 76. Achieved net churn of 20%. DAU/MAU ratio of 80%, reflecting the high usage of the product.
+Key Metrics Include: 60 paying clients with ARR of \$40,000. NPS of 76. Achieved net churn of 20%. DAU/MAU ratio of 80%, reflecting the high usage of the product.
 {: .post-paragraph-embedded}
 
 <https://apkpure.com/brisky-party-nightlife-expert/in.co.brisky> & <https://play.google.com/store/apps/details?id=in.co.brisky.business&hl=en>

@@ -12,8 +12,8 @@ thumbnailDesc: Nomad home screen
 
 # Post
 heroMedia: "../images/writing/Catharsis.png"
- 
 ---
+
 Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.
 {: .post-paragraph-embedded}
 
@@ -22,8 +22,6 @@ The Graphical Posters Were Made With The Use Of A Python Script Which Exacts The
 
 Through This Project, I Was Able To Understand And Learn Python Scripting, Use Of Colour In Films And Set Designs; Their Subsequent Impact On Establishing The Storyline And Character Personas.
 {: .post-paragraph-embedded-last}
-
-
 
 <img src="../images/writing/catharsis/catharsis-1.png">{: .post-image-small-left}
 <img src="../images/writing/catharsis/catharsis-2.png">{: .post-image-small-right}

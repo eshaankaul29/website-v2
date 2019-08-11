@@ -12,10 +12,7 @@ thumbnailDesc: Nomad home screen
 
 # Post
 heroMedia: "../images/writing/Vixlet - Intern.png"
- 
 ---
-
-
 
 During the last year of my engineering, I along with my project members, Aditya Kaustubhan & Yudhveer Singh, were selected by a Los Angeles-based company, Vixlet, to develop a business analytics dashboard.
 {: .post-paragraph-embedded}
@@ -46,4 +43,3 @@ Analyzing the customer feedback is also importante. This requires intensive anal
 
 "Every Business can benefit from becoming more analytical- understanding its customers, performing its operations, and making its decisions. But even the most analytically oriented company needs to target its analytical efforts where they will do the most good."
 {: .post-paragraph-embedded-quote-last}
-
