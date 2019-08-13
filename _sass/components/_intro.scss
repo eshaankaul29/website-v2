@@ -20,12 +20,12 @@
     color: $white;
     display: block;
     opacity: 0;
-    font: $heading-1;
-
+    font: $heading-2;
+    margin-top: 0.5rem;
     transition: all 1.5s ease;
 
     @media (max-width: $breakpointSmall) {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 }
 

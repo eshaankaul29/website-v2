@@ -4,8 +4,12 @@
    margin-bottom: $spaceMedium;
 
    > p {
-      margin-bottom: $spaceSmall;
+      margin-bottom: $spaceMedium;
    }
+
+   @media (max-width: $breakpointMedium) {
+      font: 1.75rem/120% 'SF-Pro-Text-Regular', Helvetica, Sans-Serif;
+  }
 }
 
 .about-contact, .about-site {

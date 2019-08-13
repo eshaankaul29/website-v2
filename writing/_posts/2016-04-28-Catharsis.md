@@ -8,6 +8,7 @@ company: Side Project
 description: Blah
 title: Catharsis - Use Of Colour In Cinematography
 summary: Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.
+thumbnail: ./images/work/Playment/Images/Thumbnail.png
 thumbnailDesc: Nomad home screen
 
 # Post
