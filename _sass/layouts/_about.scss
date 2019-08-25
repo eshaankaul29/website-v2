@@ -19,6 +19,28 @@
 }
 
 
+.about-img {
+   @media (max-width: $breakpointLarge) {
+      width: 40%;
+      float: right;
+      margin-left: 2em;
+      margin-bottom: 2em;
+  }
+   @media (max-width: $breakpointMedium) {
+      width: 60%;
+      float: none;
+      margin-left: 0em;
+      margin-bottom: 2em;
+  }
+   @media (max-width: $breakpointSmall) {
+       width: 80%;
+       float: none;
+       margin-left: 0em;
+      margin-bottom: 2em;
+   }
+}
+
+
 
 
 .about-contact, .about-site {
