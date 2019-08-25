@@ -152,27 +152,30 @@ summary: Eshaan Kaul is a designer @ Playment working on Design Systems, in Beng
 
       <section id="writing">
         <h2>Writing + Side Project</h2>
-        <ol>
-          {% for post in site.posts limit: 10 %} {% if post.categories contains
-          'writing' %} {% if post.type contains 'Featured' %} {% else %}
-          <li class="tile-writing">
-            <a href="{{ post.url }}">
-              <div class="tile-writing-description">
-                <h2 class="tile-writing-description-title">{{ post.title }}</h2>
-                <p class="tile-writing-description-summary">
-                  {{ post.summary }}
-                </p>
-                <button class="tile-work-cta">Read More</button>
-              </div>
-            </a>
-          </li>
-          {% endif %} {% endif %} {% endfor %}
-        </ol>
+          <ol class="list">
+              {% for post in site.posts limit: 6 %} {% if post.categories
+              contains 'writing' %} {% if post.type contains 'Featured' %} {% else
+              %}
+              <li class="list-item">
+                <a href="{{ post.url }}">
+                    <img
+                    src="{{ post.thumbnail }}"
+                    alt="{{ post.thumbnailDesc }}"
+                  />
+                  <div class="list-content">
+                    <h2>
+                      {{ post.title }}
+                    </h2>
+                    <p>
+                      {{ post.summary }}
+                    </p>
+
+                  </div>
+                </a>
+              </li>
+              {% endif %} {% endif %} {% endfor %}
+            </ol>
       </section>
-
-      <!-- About -->
-
-      
       {% include footer.html %}
     </div>
 

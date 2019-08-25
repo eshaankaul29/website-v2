@@ -187,77 +187,122 @@
 	}
 }
 
-.tile-writing {
+
+
+
+
+
+// .tile-writing {
+// 	width: 100%;
+// 	height: 12.5em;
+
+// 	@media (max-width: $breakpointSmall) {
+// 		height: auto;
+// 	}
+
+// 	> a {
+// 		display: flex;
+// 		align-items: center;
+// 		height: 100%;
+// 		position: relative;
+
+// 		transition: all $durationLong $bezierEaseOut;
+
+// 		&:before {
+// 			content: '';
+// 			display: block;
+// 			position: absolute;
+// 			top: -1px;
+// 			bottom: -1px;
+// 			left: -2.5em;
+// 			right: -2.5em;
+// 			background-color: transparent;
+// 			z-index: -1;
+// 			border-radius: 10px;
+
+// 			transition: all $durationLong $bezierEaseOut;
+
+// 			@media (max-width: $breakpointSmall) {
+// 				display: none;
+// 			}
+// 		}
+
+// 		// &:hover {
+// 		// 	transform: scale(1.03);
+
+// 		// 	&:before {
+// 		// 		background-color: $grey200;
+// 		// 		box-shadow: $shadowTile;
+// 		// 	}
+// 		// }
+
+// 		@media (max-width: $breakpointSmall) {
+// 			margin: 2em 0;
+// 		}
+// 	}
+
+// 	&:before {
+// 		content: '';
+// 		// background-color: $borderColor;
+// 		height: 1px;
+// 		width: 100%;
+// 		display: block;
+// 	}
+// }
+
+// .tile-writing-description {
+// 	width: 100%;
+
+// 	@media (max-width: $breakpointMedium) {
+// 		width: 100%;
+// 	}
+
+// 	@media (max-width: $breakpointSmall) {
+// 		// margin-bottom: 2em;
+// 	}
+// }
+
+// .tile-writing-description-title {
+// 	font: $heading-3;
+// 	color: $white;
+// 	margin-bottom: 0.5em;
+
+//     @media (max-width: $breakpointMedium) {
+//         font: $medium28;
+//     }
+// }
+
+// .tile-writing-description-summary {
+// 	font: $bodyRegular;
+// 	color: $grey400;
+// 	margin-bottom: $spaceSmall;
+
+//     @media (max-width: $breakpointMedium) {
+//         font: $bodyRegular;
+//     }
+// }
+
+// .tile-writing-cta {
+// 	font: $cta;
+// 	color: $accent;
+// }
+
+
+
+
+
+
+
+img {
+	display: block;
 	width: 100%;
-	height: 12.5em;
+	border-radius: 10px;
+	margin-bottom: 1.5em;
+	height: auto;
+  }
 
-	@media (max-width: $breakpointSmall) {
-		height: auto;
-	}
-
-	> a {
-		display: flex;
-		align-items: center;
-		height: 100%;
-		position: relative;
-
-		transition: all $durationLong $bezierEaseOut;
-
-		&:before {
-			content: '';
-			display: block;
-			position: absolute;
-			top: -1px;
-			bottom: -1px;
-			left: -2.5em;
-			right: -2.5em;
-			background-color: transparent;
-			z-index: -1;
-			border-radius: 10px;
-
-			transition: all $durationLong $bezierEaseOut;
-
-			@media (max-width: $breakpointSmall) {
-				display: none;
-			}
-		}
-
-		// &:hover {
-		// 	transform: scale(1.03);
-
-		// 	&:before {
-		// 		background-color: $grey200;
-		// 		box-shadow: $shadowTile;
-		// 	}
-		// }
-
-		@media (max-width: $breakpointSmall) {
-			margin: 2em 0;
-		}
-	}
-
-	&:before {
-		content: '';
-		// background-color: $borderColor;
-		height: 1px;
-		width: 100%;
-		display: block;
-	}
-}
-
-.tile-writing-description {
-	width: 100%;
-
-	@media (max-width: $breakpointMedium) {
-		width: 100%;
-	}
-
-	@media (max-width: $breakpointSmall) {
-		// margin-bottom: 2em;
-	}
-}
-
-.tile-writing-description-title {
+  
+  h2 {
 	font: $heading-3;
 	color: $white;
 	margin-bottom: 0.5em;
@@ -265,9 +310,59 @@
     @media (max-width: $breakpointMedium) {
         font: $medium28;
     }
-}
+  }
+  
+  /*Flex items*/
+  .list {
+	display: flex;
+	flex-wrap: wrap;
 
-.tile-writing-description-summary {
+	
+	
+  }
+  .list-item {
+	  display: flex; 
+	  margin-top: 2em;
+	padding-right: 2em;
+	margin-bottom: 2em;
+	  width: 100%;
+	  
+	}
+  @media all and (min-width: 40em) {
+	.list-item {
+	  width: 50%;
+	}
+  }
+  @media all and (min-width: 60em) {
+	.list-item {
+	  width: 33.33%;
+	}
+  }
+  .list-content {
+
+	display: flex;
+	flex-direction: column;
+
+	
+	border-bottom: 1px solid $borderColor;
+	  width: 100%;
+	 
+	 
+	  @media (max-width: $breakpointLarge) {
+		height: 14em;
+		padding-bottom: 2em ;
+	}
+	@media (max-width: $breakpointMedium) {
+		height: 16em;
+		text-overflow: ellipsis;
+		padding-bottom: 1em ;
+	}
+	@media (max-width: $breakpointSmall) {
+		height: auto;
+	}  
+
+  }
+  .list-content p {
 	font: $bodyRegular;
 	color: $grey400;
 	margin-bottom: $spaceSmall;
@@ -275,9 +370,10 @@
     @media (max-width: $breakpointMedium) {
         font: $bodyRegular;
     }
-}
+  }
 
-.tile-writing-cta {
+  .list-content a {
 	font: $cta;
 	color: $accent;
-}
+  }
+  

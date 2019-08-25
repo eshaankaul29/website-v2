@@ -40,6 +40,10 @@
      font: $cta;
      color: $white;
      margin-right: 1.2em;
+     &:hover {
+      opacity: .5;
+      transition: all $durationShort ease;
+  }
   }
   @media (max-width: $breakpointSmall) {
    display: none;
