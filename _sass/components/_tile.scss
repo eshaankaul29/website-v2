@@ -307,6 +307,14 @@ img {
 	color: $white;
 	margin-bottom: 0.5em;
 
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	
+	-webkit-line-clamp: 2; /* number of lines to show */
+	-webkit-box-orient: vertical;
+
+
     @media (max-width: $breakpointMedium) {
         font: $medium28;
     }
@@ -323,21 +331,24 @@ img {
   .list-item {
 	  display: flex; 
 	  margin-top: 2em;
-	padding-right: 2em;
-	margin-bottom: 2em;
-	  width: 100%;
+	
+	
 	  
+	@media (max-width: $breakpointLarge) {
+		width: 33.33%;
+		padding-right: 2em;
 	}
-  @media all and (min-width: 40em) {
-	.list-item {
-	  width: 50%;
+	@media (max-width: $breakpointMedium) {
+		width: 50%;
+		padding-right: 1.5em;
 	}
-  }
-  @media all and (min-width: 60em) {
-	.list-item {
-	  width: 33.33%;
+	@media (max-width: $breakpointSmall) {
+		width: 100%;
+		padding-right: 0em;
+	}  
+
 	}
-  }
+
   .list-content {
 
 	display: flex;
@@ -353,7 +364,7 @@ img {
 		padding-bottom: 2em ;
 	}
 	@media (max-width: $breakpointMedium) {
-		height: 16em;
+		height: 14em;
 		text-overflow: ellipsis;
 		padding-bottom: 1em ;
 	}
@@ -367,9 +378,13 @@ img {
 	color: $grey400;
 	margin-bottom: $spaceSmall;
 
-    @media (max-width: $breakpointMedium) {
-        font: $bodyRegular;
-    }
+
+	overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   
+   -webkit-line-clamp: 3; /* number of lines to show */
+   -webkit-box-orient: vertical;
   }
 
   .list-content a {
