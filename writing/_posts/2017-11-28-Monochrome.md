@@ -9,10 +9,10 @@ description: Blah
 title: Monochrome Community
 summary: A side project to bring a travel tracker concept to life, while learning Swift along the way. A side project to bring a travel tracker concept to life, while learning Swift along the way.
 thumbnailDesc: Nomad home screen
-thumbnail: "../images/writing/iSpirt-Thumbnail.png"
+thumbnail: "../images/writing/Monochrome - Thumbnail.png"
 
 # Post
-heroMedia: "../images/writing/Vixlet - Intern.png"
+heroMedia: "../images/writing/Monochrome.png"
 ---
 
 During the last year of my engineering, I along with my project members, Aditya Kaustubhan & Yudhveer Singh, were selected by a Los Angeles-based company, Vixlet, to develop a business analytics dashboard.
