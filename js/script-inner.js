@@ -7,3 +7,5 @@ $(window).scroll(function() {
         $(".inner-header").removeClass("inner-header-scrolled ");
     }
 });
+
+

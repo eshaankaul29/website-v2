@@ -73,3 +73,45 @@
 
 
 
+
+
+.footer-nav {
+
+    @media (max-width: $breakpointLarge) {
+        display: none;
+     }
+ 
+     @media (max-width: $breakpointMedium) {
+        display: none;
+     }
+    @media (max-width: $breakpointSmall) {
+        font: $bodyRegular;
+   color: $grey400;
+    position: relative;
+    height: auto;
+    display: block;
+    margin-bottom: 2.5em;
+    margin-top: 2.5em;
+    }
+}
+.footer-nav-section {
+    @media (max-width: $breakpointLarge) {
+        
+        display: none;
+     }
+ 
+     @media (max-width: $breakpointMedium) {
+        display: none;
+     }
+    @media (max-width: $breakpointSmall) {
+        font: $bodyRegular;
+   color: $grey400;
+    text-align: center;
+    height: 2em;
+    display: block;
+    margin: 5px auto;}
+}
+
+
+
+

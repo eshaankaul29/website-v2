@@ -46,6 +46,7 @@ $regular12: 0.75rem/165% 'SF-Pro-Text-Regular', Helvetica, Sans-Serif; // 12px -
 // all spacing
 $spaceMega: 16em; // space between homepage sections
 $spaceExtraLarge: 7em; // 128px
+$spaceMLarge: 5em; // 
 $spaceLarge: 2em; // 32px
 $spaceMedium: 1.5em; // 24px
 $spaceSmall: 1em; // 16px
@@ -53,6 +54,7 @@ $spaceExtraSmall: .5em; // 8px
 
 // semantic spacing
 $headerFooterHeight: $spaceExtraLarge;
+$headerFooterHeightMobile: $spaceMLarge;
 
 // breakpoints
 $breakpointLarge: 1680px; // 15 inch mbp

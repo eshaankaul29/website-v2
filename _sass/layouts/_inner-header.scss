@@ -23,6 +23,7 @@
 
    @media (max-width: $breakpointSmall) {
       padding: 0 8%;
+      height: $headerFooterHeightMobile;
    }
 }
 
@@ -40,4 +41,7 @@
      color: $white;
      margin-right: 1.2em;
   }
+  @media (max-width: $breakpointSmall) {
+   display: none;
+      }
 }
