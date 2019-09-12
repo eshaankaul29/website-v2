@@ -24,13 +24,13 @@ The Graphical Posters Were Made With The Use Of A Python Script Which Exacts The
 Through This Project, I Was Able To Understand And Learn Python Scripting, Use Of Colour In Films And Set Designs; Their Subsequent Impact On Establishing The Storyline And Character Personas.
 {: .post-paragraph-embedded-last}
 
-<img data-src="../images/writing/catharsis/catharsis-1.png"  class="lazyload" >{: .post-image-small-left}
-<img data-src="../images/writing/catharsis/catharsis-2.png"  class="lazyload" >{: .post-image-small-right}
-<img data-src="../images/writing/catharsis/catharsis-3.png"  class="lazyload" >{: .post-image-small-left}
-<img data-src="../images/writing/catharsis/catharsis-4.png"  class="lazyload" >{: .post-image-small-right}
-<img data-src="../images/writing/catharsis/catharsis-5.png"  class="lazyload" >{: .post-image-small-left}
-<img data-src="../images/writing/catharsis/catharsis-6.png"  class="lazyload" >{: .post-image-small-right}
-<img data-src="../images/writing/catharsis/catharsis-7.png"  class="lazyload" >{: .post-image-small-left}
-<img data-src="../images/writing/catharsis/catharsis-8.png"  class="lazyload" >{: .post-image-small-right}
-<img data-src="../images/writing/catharsis/catharsis-9.png"  class="lazyload" >{: .post-image-small-left}
+<img data-src="../images/writing/catharsis/catharsis-1.png">{: .post-image-small-left}
+<img data-src="../images/writing/catharsis/catharsis-2.png">{: .post-image-small-right}
+<img data-src="../images/writing/catharsis/catharsis-3.png">{: .post-image-small-left}
+<img data-src="../images/writing/catharsis/catharsis-4.png">{: .post-image-small-right}
+<img data-src="../images/writing/catharsis/catharsis-5.png">{: .post-image-small-left}
+<img data-src="../images/writing/catharsis/catharsis-6.png">{: .post-image-small-right}
+<img data-src="../images/writing/catharsis/catharsis-7.png">{: .post-image-small-left}
+<img data-src="../images/writing/catharsis/catharsis-8.png">{: .post-image-small-right}
+<img data-src="../images/writing/catharsis/catharsis-9.png">{: .post-image-small-left}
 <img data-src="../images/writing/catharsis/catharsis-10.png">{: .post-image-small-right}
