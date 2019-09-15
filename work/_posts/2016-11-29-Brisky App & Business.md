@@ -7,7 +7,7 @@ type: Regular
 company: Brisky
 description: Blah
 title: Brisky App & Business
-summary: A side project to bring a travel tracker concept to life, while learning Swift along the way.
+summary: Brisky is a recommendation platform that connects people with local experts for personalized recommendations.
 thumbnail: ./images/work/Brisky/Images/Thumbnail.png
 thumbnailDesc: Nomad home screen
 
@@ -24,7 +24,6 @@ platform:
 ---
 
 <img src="../images/work/Brisky/Images/1.png">{: .post-image}
-Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 
 During my time at Brisky, I understood the true value of commitment that is required to excel at a startup - it is that time of your life when you have to 'Go Big or Go Home'. My experience was no different, it was truly significant and best any newly graduated student could ask for. This place indeed laid the foundation of a phase of continuous learning.
@@ -37,10 +36,10 @@ Firstly, I worked on all fronts of the product, and this came with a steep learn
 {: .post-paragraph-embedded}
 
 Secondly, because I was working closely with Jatin Bhatia, who single-handed pushed me to think beyond the conventional means, from first principles and mentored me into the Startup Ecosystem.
-{: .post-paragraph-embedded-last}
+{: .post-paragraph-embedded}
 
 <img src="../images/work/Brisky/Images/2.png">{: .post-image}
-The core Nomad flow.
+Conceptualizing & Wireframing
 {: .post-caption}
 
 Rethinking Brisky
@@ -59,10 +58,10 @@ Creating focused experiences
 {: .post-paragraph-embedded-title}
 
 To create an engaging browsing experience we needed to design an onboarding process that would be both delightful to complete and useful in shaping our user's discovery experience. We wanted to reinforce our ‘Restaurant Recognition’ logic into the event listings and restaurant profiles themselves - this would in turn help build trust around the content we provide in our Mobile Application.
-{: .post-paragraph-embedded-last}
+{: .post-paragraph-embedded}
 
 <img src="../images/work/Brisky/Images/3.png">{: .post-image}
-The Nomad sharing experience. Sender experience (top) and receiver experience (bottom).
+Brisky App - User Interfaces
 {: .post-caption}
 
 Both collections and places can be shared. Sharing a collection takes place from the top-level collection view and utilizes your contacts.
@@ -72,7 +71,7 @@ After accepting the sender’s invitation, the receiver’s app imports the send
 {: .post-paragraph-embedded}
 
 Accepting a collection from a sender also “subscribes“ the receiver to the collection and means they will receive any future updates from the sender. This feature is meant to open the door for local collections, where you could keep running lists of places and activities in your city.
-{: .post-paragraph-embedded-last}
+{: .post-paragraph-embedded}
 
 <img src="../images/work/Brisky/Images/4.png">{: .post-image}
 Products aren't built just as a function of the singular team, but when shots are fired from all cylinders. - Jatin Bhatia
@@ -90,5 +89,5 @@ For Brisky Business, I laid the foundation of the product whose primary users we
 Key Metrics Include: 60 paying clients with ARR of \$40,000. NPS of 76. Achieved net churn of 20%. DAU/MAU ratio of 80%, reflecting the high usage of the product.
 {: .post-paragraph-embedded}
 
-<https://apkpure.com/brisky-party-nightlife-expert/in.co.brisky> & <https://play.google.com/store/apps/details?id=in.co.brisky.business&hl=en>
+Download <a href="https://apkpure.com/brisky-party-nightlife-expert/in.co.brisky" class="work-title-cta"> Brisky App</a> & <a href="https://play.google.com/store/apps/details?id=in.co.brisky.business&hl=en" class="work-title-cta"> Brisky Business</a>
 {: .post-paragraph-embedded-last}

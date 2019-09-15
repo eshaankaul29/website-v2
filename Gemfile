@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.6.3"
+gem "jekyll", "3.3.0"
 
 # Airtable - Jekyll
 gem 'airtable'
@@ -30,8 +30,6 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
-
-
 
 
 

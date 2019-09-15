@@ -84,6 +84,21 @@
 	}
 }
 
+
+.tile-writing-thumbnail {
+	display: block;
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+	margin-bottom: 1.5em;
+
+	@media (max-width: $breakpointMedium) {
+		width: 100%;
+		height: auto;
+		margin-bottom: $spaceLarge;
+	}
+}
+
 .tile-work-description {
 	padding-left: 2.5em;
 	width: 80%;
@@ -144,8 +159,8 @@
 
 	> svg {
 		vertical-align: middle;
-		margin-top: -2px;
-		margin-left: 4px;
+		margin-top: -4px;
+		margin-right: 8px;
 	}
 }
 
@@ -297,9 +312,10 @@ img {
 	display: block;
 	width: 100%;
 	border-radius: 10px;
-	margin-bottom: 1.5em;
 	height: auto;
   }
+
+
 
   
   h2 {
@@ -319,7 +335,7 @@ img {
         font: $medium28;
     }
   }
-  
+
   /*Flex items*/
   .list {
 	display: flex;
@@ -360,8 +376,8 @@ img {
 	 
 	 
 	  @media (max-width: $breakpointLarge) {
-		height: 14em;
-		padding-bottom: 2em ;
+		height: 12em;
+
 	}
 	@media (max-width: $breakpointMedium) {
 		height: 14em;

@@ -7,7 +7,7 @@ type: Featured
 company: Flipkart
 description: Flipkart Axis Bank Credit Card
 title: Flipkart Co-Branded Credit Card
-summary: A side project to bring a travel tracker concept to life, while learning Swift along the way.
+summary: Making credit and retail more inclusive in India by partnering with Axis Bank and Mastercard to launch a co-branded credit card.
 thumbnail: ./images/work/Flipkart/Images/Thumbnail.png
 thumbnailDesc: Nomad home screen
 

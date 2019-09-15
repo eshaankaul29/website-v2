@@ -142,7 +142,7 @@
 
 .post-paragraph-embedded-quote {
     margin: 0.4em auto 0.4em auto;
-    padding: 2em 4em ;
+    padding: $spaceLarge;
     font: $bodyQuote;
     color: $grey400;
     width: 80%;
@@ -161,26 +161,7 @@
     }
 }
 
-.post-paragraph-embedded-quote-last {
-    margin: 0.4em auto 0.4em auto;
-    padding: 2em 4em ;
-    font: $bodyQuote;
-    color: $grey400;
-    width: 80%;
 
-    @media (max-width: $breakpointSmall) {
-        width: 100%;
-    }
-
-    > a {
-        color: $white;
-        
-        &:hover {
-            opacity: .5;
-            transition: all $durationShort ease;
-        }
-    }
-}
 
 
 .post-paragraph-embedded-last {
@@ -206,10 +187,12 @@
 
 .post-caption {
    font: $bodySmall;
+	color: $grey400;
     color: $grey400;
     margin-top: $spaceMLarge;
 	margin-bottom: $spaceMLarge;
 	text-align: center;
+
 }
 
 

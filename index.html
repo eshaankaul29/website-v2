@@ -37,13 +37,10 @@ summary: Eshaan Kaul is a designer @ Playment working on Design Systems, in Beng
     <section id="about">
     <section class="about-main">
       <p>
-        I’m Eshaan Kaul, a Senior Product Designer at Dropbox working on
-        Design Systems. I’ve been at Dropbox since late 2017.
+        I’m Eshaan, a Product Designer at Flipkart working on Payments & FinTech - Pay Later, Cardless Credit & Co-branded Credit Card. 
       </p>
       <p>
-        Before joining Dropbox, I was an early designer at Uber and worked
-        on the consumer-facing Rides and Eats mobile apps for about 3
-        years. It was one heckuva wild ride <span><a class="about-span" href="/about.html">...</a></span>
+        Before joining Flipkart, I was a designer at Playment, and where I worked upon the data annotation crowdsourcing platform and design systems <span><a class="about-span" href="/about.html">...</a></span>
       </p>
     </section></section>
 
@@ -71,8 +68,6 @@ summary: Eshaan Kaul is a designer @ Playment working on Design Systems, in Beng
                 <h2 class="tile-work-description-title">{{ post.title }}</h2>
                 <p class="tile-work-description-summary">{{ post.summary }}</p>
                 <button class="tile-work-cta-disabled">
-                  Not Available Online
-
                   <svg
                     width="18"
                     height="18"
@@ -94,7 +89,7 @@ summary: Eshaan Kaul is a designer @ Playment working on Design Systems, in Beng
                       fill="white"
                       mask="url(#path-1-inside-1)"
                     />
-                  </svg>
+                  </svg>Not Available Online
                 </button>
               </div>
             </a>
@@ -117,8 +112,6 @@ summary: Eshaan Kaul is a designer @ Playment working on Design Systems, in Beng
                 <h2 class="tile-work-description-title">{{ post.title }}</h2>
                 <p class="tile-work-description-summary">{{ post.summary }}</p>
                 <button class="tile-work-cta-disabled">
-                  Not Available Online
-
                   <svg
                     width="18"
                     height="18"
@@ -140,7 +133,7 @@ summary: Eshaan Kaul is a designer @ Playment working on Design Systems, in Beng
                       fill="white"
                       mask="url(#path-1-inside-1)"
                     />
-                  </svg>
+                  </svg>Not Available Online
                 </button>
               </div>
             </a>
@@ -172,12 +165,13 @@ summary: Eshaan Kaul is a designer @ Playment working on Design Systems, in Beng
       <section id="writing">
         <h2>Writing × Side Projects</h2>
           <ol class="list">
-              {% for post in site.posts limit: 6 %} {% if post.categories
+              {% for post in site.posts limit: 8 %} {% if post.categories
               contains 'writing' %} {% if post.type contains 'Featured' %} {% else
               %}
               <li class="list-item">
                 <a href="{{ post.url }}">
                     <img
+                    class="tile-writing-thumbnail"
                     src="{{ post.thumbnail }}"
                     alt="{{ post.thumbnailDesc }}"
                   />

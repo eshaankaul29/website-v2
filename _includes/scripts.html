@@ -2,6 +2,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="js/script-home.js"></script>
 
+
 {% elsif page.title == "Work" %}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="js/script-inner.js"></script>
@@ -9,6 +10,7 @@
 {% elsif page.title == "Writing" %}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="js/script-inner.js"></script>
+<script src="js/lazyload.js"></script>
 
 {% elsif page.title == "About" %}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -16,6 +18,6 @@
 
 {% else %}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script src="js/script-work.js"></script>
+<script src="../js/script-work.js"></script>
 
 {% endif %}
