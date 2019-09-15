@@ -25,7 +25,7 @@ platform:
   - Desktop
 ---
 
-<img data-src="../images/work/Playment/Images/1.png" class="lazyload">{: .post-image}
+<img src="../images/work/Playment/Images/1-lqip.png" data-src="../images/work/Playment/Images/1.png" class="lazyload blur-up">{: .post-image}
 Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 
@@ -35,14 +35,14 @@ The Challenges and the Problem Solving are a critical day-to-day operations of a
 Designing for a complex product which involves crowdsourcing was never going to be a piece of cake. Designing an enterprise software is a whole new universe - the constraints, the complexities, the stakeholders, the rules of governance, the features, the functionalities, the technicalities, dozens of personas, and hundreds of use-cases. It's all just amazingly thought-provoking.
 {: .post-paragraph-embedded-last}
 
-<img data-src="../images/work/Playment/Images/2.png" class="lazyload">{: .post-image}
+<img src="../images/work/Playment/Images/2-lqip.png" data-src="../images/work/Playment/Images/2.png" class="lazyload blur-up">{: .post-image}
 The core Nomad flow.
 {: .post-caption}
 
 Adding a place pulls in associated metadata from Apple Maps and gives you a chance to leave a brief note alongside the place, which can be edited later. This note is a good way to remember something key to the experience and it will be visible to those with whom you share the place.
 {: .post-paragraph-embedded-last}
 
-<img data-src="../images/work/Playment/Images/3.png" class="lazyload">{: .post-image}
+<img src="../images/work/Playment/Images/3-lqip.png" data-src="../images/work/Playment/Images/3.png" class="lazyload blur-up">{: .post-image}
 The Nomad sharing experience. Sender experience (top) and receiver experience (bottom).
 {: .post-caption}
 
@@ -55,6 +55,6 @@ After accepting the sender’s invitation, the receiver’s app imports the send
 Accepting a collection from a sender also “subscribes“ the receiver to the collection and means they will receive any future updates from the sender. This feature is meant to open the door for local collections, where you could keep running lists of places and activities in your city.
 {: .post-paragraph-embedded-last}
 
-<img data-src="../images/work/Playment/Images/4.png" class="lazyload">{: .post-image}
+<img src="../images/work/Playment/Images/4-lqip.png" data-src="../images/work/Playment/Images/4.png" class="lazyload blur-up">{: .post-image}
 The Nomad sharing experience. Sender experience (top) and receiver experience (bottom).
 {: .post-caption}
