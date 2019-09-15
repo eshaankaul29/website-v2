@@ -9,7 +9,7 @@ description: Blah
 title: Brisky App & Business
 summary: Brisky is a recommendation platform that connects people with local experts for personalized recommendations.
 thumbnail: ./images/work/Brisky/Images/Thumbnail.webp
-thumbnailDesc: Nomad home screen
+thumbnailDesc: Asset Thumbnail
 
 # Post
 heroMedia: "../images/work/Brisky/Images/0.webp"

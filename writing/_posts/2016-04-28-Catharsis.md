@@ -9,7 +9,7 @@ description: Blah
 title: Catharsis - Use Of Colour In Cinematography
 summary: Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.
 thumbnail: "../images/writing/Catharsis - Thumbnail.webp"
-thumbnailDesc: Nomad home screen
+thumbnailDesc: Asset Thumbnail
 
 # Post
 heroMedia: "../images/writing/Catharsis.webp"

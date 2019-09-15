@@ -8,7 +8,7 @@ company: 1THING
 description: Blah
 title: Rebranding Knowledge - Monochrome by 1THING
 summary: A side project to bring a travel tracker concept to life, while learning Swift along the way. A side project to bring a travel tracker concept to life, while learning Swift along the way.
-thumbnailDesc: Nomad home screen
+thumbnailDesc: Asset Thumbnail
 thumbnail: "../images/writing/Monochrome - Thumbnail.webp"
 
 # Post

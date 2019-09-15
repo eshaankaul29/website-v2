@@ -9,7 +9,7 @@ description: Product Jarvis
 title: Pixel Design System
 summary: Building Playment’s Design System - A React-based UI Component Library on React Storybook.
 thumbnail: ./images/work/Playment/Images/Thumbnail.webp
-thumbnailDesc: Nomad home screen
+thumbnailDesc: Asset Thumbnail
 
 # Post
 heroMedia: "../images/work/Playment/Images/0.webp"
