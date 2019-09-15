@@ -8,11 +8,11 @@ company: Brisky
 description: Blah
 title: Brisky App & Business
 summary: Brisky is a recommendation platform that connects people with local experts for personalized recommendations.
-thumbnail: ./images/work/Brisky/Images/Thumbnail.png
+thumbnail: ./images/work/Brisky/Images/Thumbnail.webp
 thumbnailDesc: Nomad home screen
 
 # Post
-heroMedia: "../images/work/Brisky/Images/0.png"
+heroMedia: "../images/work/Brisky/Images/0.webp"
 shippedDate: September 2016 - April 2017
 overview:
   - Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.
@@ -23,7 +23,7 @@ platform:
   - iOS & Android
 ---
 
-<img src="../images/work/Brisky/Images/1.png">{: .post-image}
+<img src="../images/work/Brisky/Images/1.webp">{: .post-image}
 {: .post-caption}
 
 During my time at Brisky, I understood the true value of commitment that is required to excel at a startup - it is that time of your life when you have to 'Go Big or Go Home'. My experience was no different, it was truly significant and best any newly graduated student could ask for. This place indeed laid the foundation of a phase of continuous learning.
@@ -38,7 +38,7 @@ Firstly, I worked on all fronts of the product, and this came with a steep learn
 Secondly, because I was working closely with Jatin Bhatia, who single-handed pushed me to think beyond the conventional means, from first principles and mentored me into the Startup Ecosystem.
 {: .post-paragraph-embedded}
 
-<img src="../images/work/Brisky/Images/2.png">{: .post-image}
+<img src="../images/work/Brisky/Images/2.webp">{: .post-image}
 Conceptualizing & Wireframing
 {: .post-caption}
 
@@ -60,7 +60,7 @@ Creating focused experiences
 To create an engaging browsing experience we needed to design an onboarding process that would be both delightful to complete and useful in shaping our user's discovery experience. We wanted to reinforce our ‘Restaurant Recognition’ logic into the event listings and restaurant profiles themselves - this would in turn help build trust around the content we provide in our Mobile Application.
 {: .post-paragraph-embedded}
 
-<img src="../images/work/Brisky/Images/3.png">{: .post-image}
+<img src="../images/work/Brisky/Images/3.webp">{: .post-image}
 Brisky App - User Interfaces
 {: .post-caption}
 
@@ -73,7 +73,7 @@ After accepting the sender’s invitation, the receiver’s app imports the send
 Accepting a collection from a sender also “subscribes“ the receiver to the collection and means they will receive any future updates from the sender. This feature is meant to open the door for local collections, where you could keep running lists of places and activities in your city.
 {: .post-paragraph-embedded}
 
-<img src="../images/work/Brisky/Images/4.png">{: .post-image}
+<img src="../images/work/Brisky/Images/4.webp">{: .post-image}
 Products aren't built just as a function of the singular team, but when shots are fired from all cylinders. - Jatin Bhatia
 {: .post-caption}
 

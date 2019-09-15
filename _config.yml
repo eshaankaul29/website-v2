@@ -15,3 +15,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  
+- name: image-actions
+  uses: calibreapp/image-actions@1.0.0

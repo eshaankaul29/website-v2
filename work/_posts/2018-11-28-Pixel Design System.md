@@ -8,11 +8,11 @@ company: Playment
 description: Product Jarvis
 title: Pixel Design System
 summary: Building Playment’s Design System - A React-based UI Component Library on React Storybook.
-thumbnail: ./images/work/Playment/Images/Thumbnail.png
+thumbnail: ./images/work/Playment/Images/Thumbnail.webp
 thumbnailDesc: Nomad home screen
 
 # Post
-heroMedia: "../images/work/Playment/Images/0.png"
+heroMedia: "../images/work/Playment/Images/0.webp"
 shippedDate: April 2018 - January 2019
 overview:
   - Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. The motto is to empower companies in the Autonomous Vehicle, Drones, Mapping, and similar spaces with high precision annotation services. We are a young company backed by Y-Combinator and SAIF Partners; we have helped the likes of Nio, Didi Chuxing, University of Washington, Nuro, Drive.ai, and many more to fuel their vision of Autonomous Vehicles.
@@ -25,7 +25,7 @@ platform:
   - Desktop
 ---
 
-<img src="../images/work/Playment/Images/1.png">{: .post-image}
+<img src="../images/work/Playment/Images/1.webp">{: .post-image}
 Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 
@@ -35,14 +35,14 @@ The Challenges and the Problem Solving are a critical day-to-day operations of a
 Designing for a complex product which involves crowdsourcing was never going to be a piece of cake. Designing an enterprise software is a whole new universe - the constraints, the complexities, the stakeholders, the rules of governance, the features, the functionalities, the technicalities, dozens of personas, and hundreds of use-cases. It's all just amazingly thought-provoking.
 {: .post-paragraph-embedded-last}
 
-<img src="../images/work/Playment/Images/2.png">{: .post-image}
+<img src="../images/work/Playment/Images/2.webp">{: .post-image}
 The core Nomad flow.
 {: .post-caption}
 
 Adding a place pulls in associated metadata from Apple Maps and gives you a chance to leave a brief note alongside the place, which can be edited later. This note is a good way to remember something key to the experience and it will be visible to those with whom you share the place.
 {: .post-paragraph-embedded-last}
 
-<img src="../images/work/Playment/Images/3.png">{: .post-image}
+<img src="../images/work/Playment/Images/3.webp">{: .post-image}
 The Nomad sharing experience. Sender experience (top) and receiver experience (bottom).
 {: .post-caption}
 
@@ -55,6 +55,6 @@ After accepting the sender’s invitation, the receiver’s app imports the send
 Accepting a collection from a sender also “subscribes“ the receiver to the collection and means they will receive any future updates from the sender. This feature is meant to open the door for local collections, where you could keep running lists of places and activities in your city.
 {: .post-paragraph-embedded-last}
 
-<img src="../images/work/Playment/Images/4.png">{: .post-image}
+<img src="../images/work/Playment/Images/4.webp">{: .post-image}
 The Nomad sharing experience. Sender experience (top) and receiver experience (bottom).
 {: .post-caption}
