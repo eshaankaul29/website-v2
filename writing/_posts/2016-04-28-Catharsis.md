@@ -24,13 +24,13 @@ The Graphical Posters Were Made With The Use Of A Python Script Which Exacts The
 Through This Project, I Was Able To Understand And Learn Python Scripting, Use Of Colour In Films And Set Designs; Their Subsequent Impact On Establishing The Storyline And Character Personas.
 {: .post-paragraph-embedded-last}
 
-<img src="../images/writing/catharsis/catharsis-1.webp">{: .post-image-small-left}
-<img src="../images/writing/catharsis/catharsis-2.webp">{: .post-image-small-right}
-<img src="../images/writing/catharsis/catharsis-3.webp">{: .post-image-small-left}
-<img src="../images/writing/catharsis/catharsis-4.webp">{: .post-image-small-right}
-<img src="../images/writing/catharsis/catharsis-5.webp">{: .post-image-small-left}
-<img src="../images/writing/catharsis/catharsis-6.webp">{: .post-image-small-right}
-<img src="../images/writing/catharsis/catharsis-7.webp">{: .post-image-small-left}
-<img src="../images/writing/catharsis/catharsis-8.webp">{: .post-image-small-right}
-<img src="../images/writing/catharsis/catharsis-9.webp">{: .post-image-small-left}
-<img src="../images/writing/catharsis/catharsis-10.webp">{: .post-image-small-right}
+<img data-src="../images/writing/catharsis/catharsis-1.webp" class="lazyload">{: .post-image-small-left}
+<img data-src="../images/writing/catharsis/catharsis-2.webp" class="lazyload">{: .post-image-small-right}
+<img data-src="../images/writing/catharsis/catharsis-3.webp" class="lazyload">{: .post-image-small-left}
+<img data-src="../images/writing/catharsis/catharsis-4.webp" class="lazyload">{: .post-image-small-right}
+<img data-src="../images/writing/catharsis/catharsis-5.webp" class="lazyload">{: .post-image-small-left}
+<img data-src="../images/writing/catharsis/catharsis-6.webp" class="lazyload">{: .post-image-small-right}
+<img data-src="../images/writing/catharsis/catharsis-7.webp" class="lazyload">{: .post-image-small-left}
+<img data-src="../images/writing/catharsis/catharsis-8.webp" class="lazyload">{: .post-image-small-right}
+<img data-src="../images/writing/catharsis/catharsis-9.webp" class="lazyload">{: .post-image-small-left}
+<img data-src="../images/writing/catharsis/catharsis-10.webp" class="lazyload">{: .post-image-small-right}
