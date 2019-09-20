@@ -57,10 +57,10 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
           'work' %} {% if post.type contains 'Featured' %}
           <li class="tile-work-featured">
             <a>
-              <img
-                class="tile-work-thumbnail-featured"
-                src="{{ post.thumbnail }}"
-                alt=""/>
+              <img class="tile-work-thumbnail-featured lazyload blur-up" data-src="{{ post.thumbnail-desk }}" alt=""/>
+
+                <img class="tile-work-thumbnail-featured-mobile lazyload blur-up" data-src="{{ post.thumbnail-mob }}" alt=""/>
+              
               <div class="tile-work-description-featured">
                 <span class="tile-work-description-company">{{
                   post.company
@@ -80,8 +80,8 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
           <li class="tile-work">
             <a>
               <img
-                class="tile-work-thumbnail"
-                src="{{ post.thumbnail }}"
+                class="tile-work-thumbnail lazyload blur-up"
+                data-src="{{ post.thumbnail }}"
                 alt="{{ post.thumbnailDesc }}"
               />
               <div class="tile-work-description">
@@ -100,8 +100,8 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
           <li class="tile-work">
             <a href="{{ post.url }}">
               <img
-                class="tile-work-thumbnail"
-                src="{{ post.thumbnail }}"
+                class="tile-work-thumbnail lazyload blur-up"
+                data-src="{{ post.thumbnail }}"
                 alt="{{ post.thumbnailDesc }}"
               />
               <div class="tile-work-description">
@@ -129,8 +129,8 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
               <li class="list-item">
                 <a href="{{ post.url }}">
                     <img
-                    class="tile-writing-thumbnail"
-                    src="{{ post.thumbnail }}"
+                    class="tile-writing-thumbnail lazyload blur-up"
+                    data-src="{{ post.thumbnail }}"
                     alt="{{ post.thumbnailDesc }}"
                   />
                   <div class="list-content">
@@ -149,7 +149,6 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
       </section>
       {% include footer.html %}
     </div>
-
     {% include scripts.html %}
   </body>
 </html>

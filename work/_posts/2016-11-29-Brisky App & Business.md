@@ -23,7 +23,7 @@ platform:
   - iOS & Android
 ---
 
-<img src="../images/work/Brisky/Images/1-lqip.png" data-src="../images/work/Brisky/Images/1.png" class="lazyload blur-up">{: .post-image}
+<img src="../images/work/Brisky/Images/1-lqip.png" data-src="../images/work/Brisky/Images/1.png" data-action="zoom" class="lazyload blur-up">{: .post-image}
 {: .post-caption}
 
 During my time at Brisky, I understood the true value of commitment that is required to excel at a startup - it is that time of your life when you have to 'Go Big or Go Home'. My experience was no different, it was truly significant and best any newly graduated student could ask for. This place indeed laid the foundation of a phase of continuous learning.

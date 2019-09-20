@@ -6,9 +6,9 @@
     <body>
         {% include post-header.html %}
         {% if page.heroMedia contains ".mp4" %}
-            <video id="post-hero" src="{{ page.heroMedia }}" autoplay="true" loop="true"></video>
+            <video id="post-hero" data-src="{{ page.heroMedia }}" autoplay="true" loop="true" class="lazyload blur-up"></video>
         {% else %}
-            <img id="post-hero" src="{{ page.heroMedia }}" />
+            <img id="post-hero" data-src="{{ page.heroMedia }}" class="lazyload blur-up"/>
         {% endif %}
         <div class="wrapper-post">
             <section class="post">

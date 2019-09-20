@@ -33,4 +33,4 @@ Through This Project, I Was Able To Understand And Learn Python Scripting, Use O
 <img src="../images/writing/catharsis/catharsis-7-lqip.png" data-src="../images/writing/catharsis/catharsis-7.png" class="lazyload blur-up">{: .post-image-small-left}
 <img src="../images/writing/catharsis/catharsis-8-lqip.png" data-src="../images/writing/catharsis/catharsis-8.png" class="lazyload blur-up">{: .post-image-small-right}
 <img src="../images/writing/catharsis/catharsis-9-lqip.png" data-src="../images/writing/catharsis/catharsis-9.png" class="lazyload blur-up">{: .post-image-small-left}
-<img src="../images/writing/catharsis/catharsis-10-lqip.png" data-src="../images/writing/catharsis/catharsis-10.png" class="lazyload blur-up">{: .post-image-small-right}
+<img src="../images/writing/catharsis/catharsis-10-lqip.png" data-src="../images/writing/catharsis/catharsis-10.png" class="lazyload blur-up" data-action="zoom">{: .post-image-small-right}

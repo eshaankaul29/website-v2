@@ -8,7 +8,8 @@ company: Flipkart
 description: Flipkart Axis Bank Credit Card
 title: Flipkart Co-Branded Credit Card
 summary: Making credit and retail more inclusive in India by partnering with Axis Bank and Mastercard to launch a co-branded credit card.
-thumbnail: ./images/work/Flipkart/Images/Thumbnail.png
+thumbnail-desk: ./images/work/Flipkart/Images/Thumbnail - 2.png
+thumbnail-mob: ./images/work/Flipkart/Images/Thumbnail - 1.png
 thumbnailDesc: Asset Thumbnail
 
 # Post

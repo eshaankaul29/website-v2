@@ -184,11 +184,25 @@
 	}
 }
 
+.tile-work-thumbnail-featured-mobile {
+	@media (max-width: $breakpointMedium) {
+		display: block;
+		width: 100%;
+		border-radius: 10px;
+		margin-bottom: 2.5em;
+	}
+	display: none;
+}
+
 .tile-work-thumbnail-featured {
 	display: block;
 	width: 100%;
 	border-radius: 10px;
 	margin-bottom: 2.5em;
+	
+	@media (max-width: $breakpointMedium) {
+		display: none;
+	}
 }
 
 .tile-work, .tile-work-featured, .tile-writing {

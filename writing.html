@@ -25,30 +25,30 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
         <!-- Work -->
         <section id="writing">
           <h2>Writing × Side Projects</h2>
-          <ol class="list">
-              {% for post in site.posts limit: 100 %} {% if post.categories
-              contains 'writing' %} {% if post.type contains 'Featured' %} {% else
-              %}
-              <li class="list-item">
-                <a href="{{ post.url }}">
-                    <img
-                    class="tile-writing-thumbnail"
-                    src="{{ post.thumbnail }}"
-                    alt="{{ post.thumbnailDesc }}"
-                  />
-                  <div class="list-content">
-                    <h2>
-                      {{ post.title }}
-                    </h2>
-                    <p>
-                      {{ post.summary }}
-                    </p>
-
-                  </div>
-                </a>
-              </li>
-              {% endif %} {% endif %} {% endfor %}
-            </ol>
+            <ol class="list">
+                {% for post in site.posts limit: 100 %} {% if post.categories
+                contains 'writing' %} {% if post.type contains 'Featured' %} {% else
+                %}
+                <li class="list-item">
+                  <a href="{{ post.url }}">
+                      <img
+                      class="tile-writing-thumbnail lazyload blur-up"
+                      data-src="{{ post.thumbnail }}"
+                      alt="{{ post.thumbnailDesc }}"
+                    />
+                    <div class="list-content">
+                      <h2>
+                        {{ post.title }}
+                      </h2>
+                      <p>
+                        {{ post.summary }}
+                      </p>
+  
+                    </div>
+                  </a>
+                </li>
+                {% endif %} {% endif %} {% endfor %}
+              </ol>
         </section>
       </div>
 
