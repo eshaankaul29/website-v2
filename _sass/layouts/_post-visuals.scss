@@ -4,8 +4,10 @@
     > h3 {
         @extend %visually-hidden;
     }
+
+    @media (max-width: $breakpointMedium) {
+        margin-bottom: $spaceMaxLarge !important;
+      }
 }
 
-.post-visuals-item-last {
-    margin-bottom: 8.5em !important;
-}
+
