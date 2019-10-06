@@ -85,7 +85,7 @@
 }
 
 
-.tile-writing-thumbnail {
+.tile-blog-thumbnail {
 	display: block;
 	width: 100%;
 	height: auto;
@@ -213,7 +213,7 @@
 	}
 }
 
-.tile-work, .tile-work-featured, .tile-writing {
+.tile-work, .tile-work-featured, .tile-blog {
 	&:after {
 		content: '';
 		background-color: $borderColor;
@@ -229,7 +229,7 @@
 
 
 
-// .tile-writing {
+// .tile-blog {
 // 	width: 100%;
 // 	height: 12.5em;
 
@@ -287,7 +287,7 @@
 // 	}
 // }
 
-// .tile-writing-description {
+// .tile-blog-description {
 // 	width: 100%;
 
 // 	@media (max-width: $breakpointMedium) {
@@ -299,7 +299,7 @@
 // 	}
 // }
 
-// .tile-writing-description-title {
+// .tile-blog-description-title {
 // 	font: $heading-3;
 // 	color: $white;
 // 	margin-bottom: 0.5em;
@@ -309,7 +309,7 @@
 //     }
 // }
 
-// .tile-writing-description-summary {
+// .tile-blog-description-summary {
 // 	font: $bodyRegular;
 // 	color: $grey400;
 // 	margin-bottom: $spaceSmall;
@@ -319,7 +319,7 @@
 //     }
 // }
 
-// .tile-writing-cta {
+// .tile-blog-cta {
 // 	font: $cta;
 // 	color: $accent;
 // }

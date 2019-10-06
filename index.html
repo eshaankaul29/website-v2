@@ -13,7 +13,7 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
       </a>
       <nav class="home-header-nav">
         <a href="/work.html">Work</a>
-        <a href="/writing.html">Writing × Side Projects</a>
+        <a href="/blog.html">Blog</a>
         <a href="/about.html">About</a>
       </nav>
   </div>
@@ -118,18 +118,18 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
         </ol>
       </section>
 
-      <!-- Writing -->
+      <!-- blog -->
 
-      <section id="writing">
-        <h2>Writing × Side Projects</h2>
+      <section id="blog">
+        <h2>Blog</h2>
           <ol class="list">
               {% for post in site.posts limit: 8 %} {% if post.categories
-              contains 'writing' %} {% if post.type contains 'Featured' %} {% else
+              contains 'blog' %} {% if post.type contains 'Featured' %} {% else
               %}
               <li class="list-item">
                 <a href="{{ post.url }}">
                     <img
-                    class="tile-writing-thumbnail lazyload blur-up"
+                    class="tile-blog-thumbnail lazyload blur-up"
                     data-src="{{ post.thumbnail }}"
                     alt="{{ post.thumbnailDesc }}"
                   />
