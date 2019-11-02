@@ -99,6 +99,42 @@
     }
 }
 
+.post-image-small-3-left {
+    width: 31.833%;
+    float: left;
+    margin: 0 2.25% 2.25% 0;
+
+    @media (max-width: $breakpointSmall) {
+        width: 100%;
+        float: none;
+        margin-bottom: 5%;
+    }
+}
+
+.post-image-small-3-center {
+    width: 31.833%;
+    float: left;
+    margin: 0 0 2.25% 0;
+
+    @media (max-width: $breakpointSmall) {
+        width: 100%;
+        float: none;
+        margin-bottom: 5%;
+    }
+}
+
+
+.post-image-small-3-right {
+    width: 31.833%;
+    margin: 0 0 0 0;
+    float: right;
+    @media (max-width: $breakpointSmall) {
+        width: 100%;
+        float: none;
+        margin-bottom: 5%;
+    }
+}
+
 
 ////post-text
 
@@ -188,8 +224,6 @@
 .post-caption {
    font: $bodySmall;
 	color: $grey400;
-    color: $grey400;
-    margin-top: $spaceMLarge;
 	margin-bottom: $spaceMLarge;
 	text-align: center;
 
