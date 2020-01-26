@@ -18,7 +18,7 @@
 
 .post-date {
     font: $bodySmall;
-    color: $grey400;
+    color: $grey500;
     margin-bottom: $spaceLarge;
     display: inline-block;
 
@@ -54,12 +54,13 @@
 
 .post-section-paragraph {
    font: $bodyRegular;
-	color: $grey400;
+	color: $grey500;
 	margin-bottom: .8em;
 
     > a {
-        color: $white;
-        
+        color: $grey500;
+        border-bottom: 1px dotted $grey500;
+        text-decoration: none;
         &:hover {
             opacity: .5;
             transition: all $durationShort ease;
@@ -143,15 +144,16 @@
     margin: 0 auto .8em auto;
     width: 80%;
     font: $bodyRegular;
-    color: $grey400;
+    color: $grey500;
 
     @media (max-width: $breakpointSmall) {
         width: 100%;
     }
 
     > a {
-        color: $white;
-        
+        color: $grey500;
+        border-bottom: 1px dotted $grey500;
+        text-decoration: none;
         &:hover {
             opacity: .5;
             transition: all $durationShort ease;
@@ -180,7 +182,7 @@
     margin: 0.4em auto 0.4em auto;
     padding: $spaceLarge;
     font: $bodyQuote;
-    color: $grey400;
+    color: $grey500;
     width: 80%;
 
     @media (max-width: $breakpointSmall) {
@@ -188,7 +190,9 @@
     }
     
     > a {
-        color: $white;
+        color: $grey500;
+        border-bottom: 1px dotted $grey500;
+        text-decoration: none;
         
         &:hover {
             opacity: .5;
@@ -203,7 +207,7 @@
 .post-paragraph-embedded-last {
     margin: 0 auto 5.7142857143em auto;
     font: $bodyRegular;
-    color: $grey400;
+    color: $grey500;
     width: 80%;
 
     @media (max-width: $breakpointSmall) {
@@ -211,7 +215,9 @@
     }
 
     > a {
-        color: $white;
+        color: $grey500;
+        border-bottom: 1px dotted $grey500;
+        text-decoration: none;
         
         &:hover {
             opacity: .5;
@@ -223,7 +229,7 @@
 
 .post-caption {
    font: $bodySmall;
-	color: $grey400;
+	color: $grey500;
 	margin-bottom: $spaceMLarge;
 	text-align: center;
 

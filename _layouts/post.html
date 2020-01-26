@@ -24,18 +24,6 @@
                         <p class="post-section-paragraph">{{ paragraph | textilize }}</p>
                     {% endfor %}
                 </section>
-                <section class="post-section">
-                    <h3 class="post-section-label">Outcome</h3>
-                    {% for paragraph in page.outcome %}
-                        <p class="post-section-paragraph">{{ paragraph | textilize }}</p>
-                    {% endfor %}
-                </section>
-                <section class="post-section">
-                    <h3 class="post-section-label">Platform</h3>
-                    {% for paragraph in page.platform %}
-                        <p class="post-section-paragraph">{{ paragraph | textilize }}</p>
-                    {% endfor %}
-                </section>
             </section>
             <section id="post-visuals">
                 <h3>{{ page.title }} Visuals</h3>

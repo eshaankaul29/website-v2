@@ -480,7 +480,7 @@ h2 {
 
 .post-date {
   font: 0.875rem/140% "SF-Pro-Text-Regular", Helvetica, Sans-Serif;
-  color: #858585;
+  color: #CACACA;
   margin-bottom: 2em;
   display: inline-block; }
   @media (max-width: 696px) {
@@ -510,10 +510,12 @@ h2 {
 
 .post-section-paragraph {
   font: 1.125rem/165% "SF-Pro-Text-Regular", Helvetica, Sans-Serif;
-  color: #858585;
+  color: #CACACA;
   margin-bottom: .8em; }
   .post-section-paragraph > a {
-    color: #ffffff; }
+    color: #CACACA;
+    border-bottom: 1px dotted #CACACA;
+    text-decoration: none; }
     .post-section-paragraph > a:hover {
       opacity: .5;
       transition: all 0.2s ease; }
@@ -576,12 +578,14 @@ h2 {
   margin: 0 auto .8em auto;
   width: 80%;
   font: 1.125rem/165% "SF-Pro-Text-Regular", Helvetica, Sans-Serif;
-  color: #858585; }
+  color: #CACACA; }
   @media (max-width: 696px) {
     .post-paragraph-embedded {
       width: 100%; } }
   .post-paragraph-embedded > a {
-    color: #ffffff; }
+    color: #CACACA;
+    border-bottom: 1px dotted #CACACA;
+    text-decoration: none; }
     .post-paragraph-embedded > a:hover {
       opacity: .5;
       transition: all 0.2s ease; }
@@ -600,13 +604,15 @@ h2 {
   margin: 0.4em auto 0.4em auto;
   padding: 2em;
   font: 2rem/150% "SF-Pro-Text-RegularItalic", Helvetica, Sans-Serif;
-  color: #858585;
+  color: #CACACA;
   width: 80%; }
   @media (max-width: 696px) {
     .post-paragraph-embedded-quote {
       width: 100%; } }
   .post-paragraph-embedded-quote > a {
-    color: #ffffff; }
+    color: #CACACA;
+    border-bottom: 1px dotted #CACACA;
+    text-decoration: none; }
     .post-paragraph-embedded-quote > a:hover {
       opacity: .5;
       transition: all 0.2s ease; }
@@ -614,20 +620,22 @@ h2 {
 .post-paragraph-embedded-last {
   margin: 0 auto 5.7142857143em auto;
   font: 1.125rem/165% "SF-Pro-Text-Regular", Helvetica, Sans-Serif;
-  color: #858585;
+  color: #CACACA;
   width: 80%; }
   @media (max-width: 696px) {
     .post-paragraph-embedded-last {
       width: 100%; } }
   .post-paragraph-embedded-last > a {
-    color: #ffffff; }
+    color: #CACACA;
+    border-bottom: 1px dotted #CACACA;
+    text-decoration: none; }
     .post-paragraph-embedded-last > a:hover {
       opacity: .5;
       transition: all 0.2s ease; }
 
 .post-caption {
   font: 0.875rem/140% "SF-Pro-Text-Regular", Helvetica, Sans-Serif;
-  color: #858585;
+  color: #CACACA;
   margin-bottom: 5em;
   text-align: center; }
 
