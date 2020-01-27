@@ -57,6 +57,11 @@ Creating Focused Experiences
 
 To create an engaging browsing experience we needed to design an onboarding process that would be both delightful to complete and useful in shaping our user's discovery experience. We wanted to reinforce our ‘Restaurant Recognition’ logic into the event listings and restaurant profiles themselves - this would, in turn, help build trust around the content we provide in our Mobile Application.
 {: .post-paragraph-embedded-last}
+Brisky-IA
+
+<img src="../images/work/Brisky/Images/Brisky-IA-lqip.png" data-src="../images/work/Brisky/Images/Brisky-IA.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - Information Architecture">{: .post-image}
+Brisky App - Information Architecture
+{: .post-caption}
 
 <img src="../images/work/Brisky/Images/2-lqip.png" data-src="../images/work/Brisky/Images/2.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - User Interface Design">{: .post-image}
 
@@ -78,6 +83,10 @@ Key Metrics Include: 60 paying clients with ARR of \$40,000. NPS of 76. Achieved
 
 Download <a href="https://apkpure.com/brisky-party-nightlife-expert/in.co.brisky" target="_blank">Brisky App</a> & <a href="https://play.google.com/store/apps/details?id=in.co.brisky.business&hl=en" target="_blank"> Brisky Business</a>
 {: .post-paragraph-embedded-last}
+
+
+
+
 
 <img src="../images/work/Brisky/Images/Image-1 2.png" data-src="../images/work/Brisky/Images/Image-1.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky Team">{: .post-image}
 Products aren't built just as a function of the singular team, but when shots are fired from all cylinders. - Jatin Bhatia
