@@ -19,8 +19,11 @@ overview:
   - Key metrics include - 30,000+ users across iOS and Android. 5,000+ MAUs- 8,000+ recommendations. 28-Day retention of 30%. 
 ---
 
-<img src="../images/work/Brisky/Images/1-lqip.png" data-src="../images/work/Brisky/Images/1.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image}
-{: .post-caption}
+
+<img src="../images/work/Brisky/Images/Brisky_Pitch.001 2.png" data-src="../images/work/Brisky/Images/Brisky_Pitch.001.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image-small-left}
+
+<img src="../images/work/Brisky/Images/Brisky_Pitch.002 2.png" data-src="../images/work/Brisky/Images/Brisky_Pitch.002.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image-small-right}<br></br>
+
 
 During my time at Brisky, I understood the true sense of responsibility that is required to outdo at a startup - it is that moment of your life when you 'Go Big or Go Home'. If you’re in a startup, you do whatever it takes to push things forward. Everyone here did just that. It could just be ordering a water can—whatever needs to get done, you do it. All of which contributes to the entrepreneurial spirit felt throughout the company. My encounter was no different, it was truly vital and the best any fresh graduate student could ask for. This place indeed laid the foundational phase of continuous learning.
 {: .post-paragraph-embedded}
