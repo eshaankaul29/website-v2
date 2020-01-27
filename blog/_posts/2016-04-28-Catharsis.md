@@ -21,7 +21,11 @@ The Graphical Posters Were Made With The Use Of A Python Script Which Exacts The
 {: .post-paragraph-embedded}
 
 Through This Project, I Was Able To Understand And Learn Python Scripting, Use Of Colour In Films And Set Designs; Their Subsequent Impact On Establishing The Storyline And Character Personas.
-{: .post-paragraph-embedded-last}
+{: .post-paragraph-embedded}
+
+<div class="post-code"><script src="https://gist.github.com/eshaankaul29/e3cdd39a892d9d5cf2d9827795720c9a.js"></script></div>
+
+
 
 <img src="../images/blog/Catharsis/Images/catharsis-1-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-1.png" class="lazyload blur-up">{: .post-image-small-left}
 <img src="../images/blog/Catharsis/Images/catharsis-2-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-2.png" class="lazyload blur-up">{: .post-image-small-right}
