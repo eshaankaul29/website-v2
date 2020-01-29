@@ -72,6 +72,11 @@ Brisky App - Information Architecture
 Brisky App - User Interfaces
 {: .post-caption}
 
+
+<img src="../images/work/Brisky/Images/collage-brisky 2.png" data-src="../images/work/Brisky/Images/collage-brisky.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - User Interface Design">{: .post-image}
+Brisky Social Ideation
+{: .post-caption}
+
 Brisky Business
 {: .post-paragraph-embedded-title}
 
