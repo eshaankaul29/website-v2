@@ -9,10 +9,11 @@ description: Blah
 title: Brisky App & Business
 summary: Brisky is a recommendation platform that connects people with local experts for personalized recommendations.
 thumbnail: ./images/work/Brisky/Images/Thumbnail.png
-thumbnailDesc: Asset Thumbnail
+thumbnail-lqip: ./images/work/Brisky/Images/Thumbnail-lqip.png
 
 # Post
 heroMedia: "../images/work/Brisky/Images/0.png"
+heroMedia-lqip: "../images/work/Brisky/Images/0-lqip.png"
 shippedDate: September 2016 - April 2017
 overview:
   - Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.

@@ -9,10 +9,12 @@ description: Product Jarvis
 title: Pixel Design System
 summary: Building Playment’s Design System - A React-based UI Component Library on React Storybook.
 thumbnail: ./images/work/Playment/Images/Thumbnail.png
-thumbnailDesc: Asset Thumbnail
+thumbnail-lqip: ./images/work/Playment/Images/Thumbnail-lqip.png
+
 
 # Post
 heroMedia: "../images/work/Playment/Images/0.png"
+heroMedia-lqip: "../images/work/Playment/Images/0-lqip.png"
 shippedDate: April 2018 - January 2019
 overview:
   - Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. The motto is to empower companies in the Autonomous Vehicle, Drones, Mapping, and similar spaces with high precision annotation services. We are a young company backed by Y-Combinator and SAIF Partners; we have helped the likes of Nio, Didi Chuxing, University of Washington, Nuro, Drive.ai, and many more to fuel their vision of Autonomous Vehicles.

@@ -30,9 +30,9 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
             'work' %} {% if post.type contains 'Featured' %}
             <li class="tile-work-featured">
               <a>
-                <img class="tile-work-thumbnail-featured lazyload blur-up" data-src="{{ post.thumbnail-desk }}" alt=""/>
+                <img class="tile-work-thumbnail-featured lazyload blur-up" src="{{ post.thumbnail-desk-lqip }}" data-src="{{ post.thumbnail-desk }}" alt="{{ post.summary }}"/>
   
-                  <img class="tile-work-thumbnail-featured-mobile lazyload blur-up" data-src="{{ post.thumbnail-mob }}" alt=""/>
+                  <img class="tile-work-thumbnail-featured-mobile lazyload blur-up" src="{{ post.thumbnail-mob-lqip }}" data-src="{{ post.thumbnail-mob }}" alt="{{ post.summary }}"/>
                 
                 <div class="tile-work-description-featured">
                   <span class="tile-work-description-company">{{
@@ -47,15 +47,16 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
               </a>
             </li>
             {% else %} {% endif %} {% endif %} {% endfor %} {% for post in
-            site.posts limit: 20 %} {% if post.categories contains 'work' %} {% if
+            site.posts limit: 1000 %} {% if post.categories contains 'work' %} {% if
             post.type contains 'Featured' %} {% elsif post.type contains 'Locked'
             %}
             <li class="tile-work">
               <a>
                 <img
                   class="tile-work-thumbnail lazyload blur-up"
+                  src="{{ post.thumbnail-lqip }}"
                   data-src="{{ post.thumbnail }}"
-                  alt="{{ post.thumbnailDesc }}"
+                  alt="{{ post.summary }}"
                 />
                 <div class="tile-work-description">
                   <span class="tile-work-description-company">{{
@@ -74,8 +75,9 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
               <a href="{{ post.url }}">
                 <img
                   class="tile-work-thumbnail lazyload blur-up"
+                  src="{{ post.thumbnail-lqip }}"
                   data-src="{{ post.thumbnail }}"
-                  alt="{{ post.thumbnailDesc }}"
+                  alt="{{ post.summary }}"
                 />
                 <div class="tile-work-description">
                   <span class="tile-work-description-company">{{

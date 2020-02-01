@@ -7,11 +7,12 @@ type: Regular
 description: Blah
 title: Women In Product Workshop
 summary: Photo Series from a Pottery Village in Delhi
-thumbnailDesc: Asset Thumbnail
 thumbnail: "../images/blog/WIP/WIP - Thumbnail.png"
+thumbnail-lqip: "../images/blog/WIP/WIP - Thumbnail-lqip.png"
 
 # Post
 heroMedia: "../images/blog/WIP/WIP.png"
+heroMedia-lqip: "../images/blog/WIP/WIP-lqip.png"
 ---
 
 Hampi, Karnataka

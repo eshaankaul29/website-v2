@@ -8,7 +8,7 @@
         {% if page.heroMedia contains ".mp4" %}
             <video id="post-hero" data-src="{{ page.heroMedia }}" autoplay="true" loop="true" class="lazyload blur-up"></video>
         {% else %}
-            <img id="post-hero" data-src="{{ page.heroMedia }}" class="lazyload blur-up"/>
+            <img id="post-hero" src="{{ page.heroMedia-lqip }}" data-src="{{ page.heroMedia }}" class="lazyload blur-up" alt="{{ page.summary }}"/>
         {% endif %}
         <div class="wrapper-post">
             <section class="post">
@@ -32,8 +32,5 @@
             {% include footer.html %}
         </div>
         {% include scripts.html %}
-        
-
-
     </body>
 </html>

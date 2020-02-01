@@ -26,15 +26,16 @@ summary: Eshaan Kaul is a Product Designer at Flipkart working on Payments & Fin
         <section id="blog">
           <h2>Blog</h2>
             <ol class="list">
-                {% for post in site.posts limit: 100 %} {% if post.categories
+                {% for post in site.posts limit: 1000 %} {% if post.categories
                 contains 'blog' %} {% if post.type contains 'Featured' %} {% else
                 %}
                 <li class="list-item">
                   <a href="{{ post.url }}">
                       <img
                       class="tile-blog-thumbnail lazyload blur-up"
+                      src="{{ post.thumbnail-lqip }}"
                       data-src="{{ post.thumbnail }}"
-                      alt="{{ post.thumbnailDesc }}"
+                      alt="{{ post.summary }}"
                     />
                     <div class="list-content">
                       <h2>
