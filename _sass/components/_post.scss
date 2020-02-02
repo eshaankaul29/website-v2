@@ -77,6 +77,31 @@
     margin-bottom: 1.5%;
 }
 
+.post-image-right {
+    @media (max-width: $breakpointLarge) {
+        display: block;
+       width: 40%;
+       float: right;
+       margin-left: 2em;
+       margin-bottom: 2em;
+   }
+    @media (max-width: $breakpointMedium) {
+       width: 60%;
+       float: none;
+       margin-left: 0em;
+       margin-bottom: 2em;
+   }
+    @media (max-width: $breakpointSmall) {
+        width: 80%;
+        float: none;
+        margin-left: 0em;
+       margin-bottom: 2em;
+    }
+ }
+
+
+
+
 .post-image-small-right {
     width: 49.25%;
     float: right;
@@ -237,7 +262,6 @@
 	color: $grey500;
 	margin-bottom: $spaceMLarge;
 	text-align: center;
-
 }
 
 

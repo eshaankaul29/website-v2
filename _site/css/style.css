@@ -525,6 +525,26 @@ h2 {
   width: 100%;
   margin-bottom: 1.5%; }
 
+@media (max-width: 1680px) {
+  .post-image-right {
+    display: block;
+    width: 40%;
+    float: right;
+    margin-left: 2em;
+    margin-bottom: 2em; } }
+@media (max-width: 944px) {
+  .post-image-right {
+    width: 60%;
+    float: none;
+    margin-left: 0em;
+    margin-bottom: 2em; } }
+@media (max-width: 696px) {
+  .post-image-right {
+    width: 80%;
+    float: none;
+    margin-left: 0em;
+    margin-bottom: 2em; } }
+
 .post-image-small-right {
   width: 49.25%;
   float: right;
