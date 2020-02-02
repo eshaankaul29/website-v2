@@ -1,33 +1,29 @@
 ---
 layout: post
 category: Work
-type: Locked
+type: Regular
 
 # Home
 company: Playment
 description: Product Jarvis
 title: Pixel Design System
 summary: Building Playment’s Design System - A React-based UI Component Library on React Storybook.
-thumbnail: ./images/work/Playment/Images/Thumbnail.png
-thumbnail-lqip: ./images/work/Playment/Images/Thumbnail-lqip.png
+thumbnail: ./images/work/Playment/Thumbnail.png
+thumbnail-lqip: ./images/work/Playment/Thumbnail-lqip.png
 
 
 # Post
-heroMedia: "../images/work/Playment/Images/0.png"
-heroMedia-lqip: "../images/work/Playment/Images/0-lqip.png"
+heroMedia: "../images/work/Playment/0.png"
+heroMedia-lqip: "../images/work/Playment/0-lqip.png"
 shippedDate: April 2018 - January 2019
 overview:
   - Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. The motto is to empower companies in the Autonomous Vehicle, Drones, Mapping, and similar spaces with high precision annotation services. We are a young company backed by Y-Combinator and SAIF Partners; we have helped the likes of Nio, Didi Chuxing, University of Washington, Nuro, Drive.ai, and many more to fuel their vision of Autonomous Vehicles.
 
   - At the core of our platform, is a trained workforce of 300,000+ users (Players/Annotators) managed by their human intelligence experts who build annotation tasks on the training data and deliver results with assured quality.
-outcome:
-  - No outcome yet, as this is an ongoing project.
-  - However, in the process of pursuing this project I’ve opened the door to the world of Swift and iOS development, so in that sense it’s already a great success.
-platform:
-  - Desktop
+
 ---
 
-<img src="../images/work/Playment/Images/1-lqip.png" data-src="../images/work/Playment/Images/1.png" class="lazyload blur-up">{: .post-image}
+<img src="../images/work/Playment/PDS/PDS - 1-lqip.png" data-src="../images/work/Playment/PDS/PDS - 1.png" class="lazyload blur-up">{: .post-image}
 Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 
@@ -37,16 +33,14 @@ The Challenges and the Problem Solving are a critical day-to-day operations of a
 Designing for a complex product which involves crowdsourcing was never going to be a piece of cake. Designing an enterprise software is a whole new universe - the constraints, the complexities, the stakeholders, the rules of governance, the features, the functionalities, the technicalities, dozens of personas, and hundreds of use-cases. It's all just amazingly thought-provoking.
 {: .post-paragraph-embedded-last}
 
-<img src="../images/work/Playment/Images/2-lqip.png" data-src="../images/work/Playment/Images/2.png" class="lazyload blur-up">{: .post-image}
-The core Nomad flow.
+<img src="../images/work/Playment/PDS/PDS - 2-lqip.png" data-src="../images/work/Playment/PDS/PDS - 2.png" class="lazyload blur-up">{: .post-image}
+Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 
 Adding a place pulls in associated metadata from Apple Maps and gives you a chance to leave a brief note alongside the place, which can be edited later. This note is a good way to remember something key to the experience and it will be visible to those with whom you share the place.
-{: .post-paragraph-embedded-last}
+{: .post-paragraph-embedded}
 
-<img src="../images/work/Playment/Images/3-lqip.png" data-src="../images/work/Playment/Images/3.png" class="lazyload blur-up">{: .post-image}
-The Nomad sharing experience. Sender experience (top) and receiver experience (bottom).
-{: .post-caption}
+
 
 Both collections and places can be shared. Sharing a collection takes place from the top-level collection view and utilizes your contacts.
 {: .post-paragraph-embedded}
@@ -57,6 +51,3 @@ After accepting the sender’s invitation, the receiver’s app imports the send
 Accepting a collection from a sender also “subscribes“ the receiver to the collection and means they will receive any future updates from the sender. This feature is meant to open the door for local collections, where you could keep running lists of places and activities in your city.
 {: .post-paragraph-embedded-last}
 
-<img src="../images/work/Playment/Images/4-lqip.png" data-src="../images/work/Playment/Images/4.png" class="lazyload blur-up">{: .post-image}
-The Nomad sharing experience. Sender experience (top) and receiver experience (bottom).
-{: .post-caption}
