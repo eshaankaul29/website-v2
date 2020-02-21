@@ -361,7 +361,7 @@ h2 {
 
 .list-item {
   display: flex;
-  margin-top: 2em; }
+  margin-top: 3em; }
   @media (max-width: 1680px) {
     .list-item {
       width: 33.33%;
@@ -395,7 +395,7 @@ h2 {
 .list-content p {
   font: 1.125rem/165% "SF-Pro-Text-Regular", Helvetica, Sans-Serif;
   color: #858585;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
@@ -720,7 +720,7 @@ h2 {
   height: 24px;
   width: 24px;
   background-color: #333333;
-  border-radius: 6px;
+  border-radius: 4px;
   left: 0px;
   position: absolute;
   transition: all 1.6s cubic-bezier(0.25, 0.1, 0, 1); }
@@ -751,7 +751,7 @@ h2 {
   opacity: 1 !important; }
 
 .post-header {
-  height: 7em;
+  height: 5em;
   position: fixed;
   top: 0;
   width: 100%;
@@ -813,7 +813,7 @@ h2 {
     margin-bottom: 12em !important; } }
 
 .home-header {
-  height: 7em;
+  height: 5em;
   position: fixed;
   top: 0;
   width: 100%;
@@ -861,7 +861,7 @@ h2 {
       display: none; } }
 
 .inner-header {
-  height: 7em;
+  height: 5em;
   position: fixed;
   top: 0;
   width: 100%;
