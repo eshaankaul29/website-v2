@@ -24,17 +24,17 @@ The Graphical Posters Were Made With The Use Of A Python Script Which Exacts The
 Through This Project, I Was Able To Understand And Learn Python Scripting, Use Of Colour In Films And Set Designs; Their Subsequent Impact On Establishing The Storyline And Character Personas.
 {: .post-paragraph-embedded}
 
-<div class="post-code"><script src="https://gist.github.com/eshaankaul29/e3cdd39a892d9d5cf2d9827795720c9a.js"></script></div>
+<div class="post-code"><script src="https://gist.github.com/syskaul/e3cdd39a892d9d5cf2d9827795720c9a.js"></script></div>
 
 
 
-<img src="../images/blog/Catharsis/Images/catharsis-1-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-1.png" class="lazyload blur-up">{: .post-image-small-left}
-<img src="../images/blog/Catharsis/Images/catharsis-2-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-2.png" class="lazyload blur-up">{: .post-image-small-right}
-<img src="../images/blog/Catharsis/Images/catharsis-3-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-3.png" class="lazyload blur-up">{: .post-image-small-left}
-<img src="../images/blog/Catharsis/Images/catharsis-4-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-4.png" class="lazyload blur-up">{: .post-image-small-right}
-<img src="../images/blog/Catharsis/Images/catharsis-5-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-5.png" class="lazyload blur-up">{: .post-image-small-left}
-<img src="../images/blog/Catharsis/Images/catharsis-6-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-6.png" class="lazyload blur-up">{: .post-image-small-right}
-<img src="../images/blog/Catharsis/Images/catharsis-7-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-7.png" class="lazyload blur-up">{: .post-image-small-left}
-<img src="../images/blog/Catharsis/Images/catharsis-8-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-8.png" class="lazyload blur-up">{: .post-image-small-right}
-<img src="../images/blog/Catharsis/Images/catharsis-9-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-9.png" class="lazyload blur-up">{: .post-image-small-left}
-<img src="../images/blog/Catharsis/Images/catharsis-10-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-10.png" class="lazyload blur-up" data-action="zoom">{: .post-image-small-right}
+<img src="../images/blog/Catharsis/Images/catharsis-1-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-1.png" class="lazyload blur-up" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
+<img src="../images/blog/Catharsis/Images/catharsis-2-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-2.png" class="lazyload blur-up" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
+<img src="../images/blog/Catharsis/Images/catharsis-3-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-3.png" class="lazyload blur-up" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
+<img src="../images/blog/Catharsis/Images/catharsis-4-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-4.png" class="lazyload blur-up" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
+<img src="../images/blog/Catharsis/Images/catharsis-5-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-5.png" class="lazyload blur-up" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
+<img src="../images/blog/Catharsis/Images/catharsis-6-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-6.png" class="lazyload blur-up" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
+<img src="../images/blog/Catharsis/Images/catharsis-7-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-7.png" class="lazyload blur-up" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
+<img src="../images/blog/Catharsis/Images/catharsis-8-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-8.png" class="lazyload blur-up" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
+<img src="../images/blog/Catharsis/Images/catharsis-9-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-9.png" class="lazyload blur-up" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
+<img src="../images/blog/Catharsis/Images/catharsis-10-lqip.png" data-src="../images/blog/Catharsis/Images/catharsis-10.png" class="lazyload blur-up"  alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
