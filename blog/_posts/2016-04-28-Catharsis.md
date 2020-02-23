@@ -4,9 +4,8 @@ category: blog
 type: Regular
 
 # Home
-description: Blah
 title: Catharsis - Use Of Colour In Cinematography
-summary: Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.
+summary: Catharsis is a project to understand the nuances behind the use of colour in cinematography
 thumbnail: "../images/blog/Catharsis/Catharsis - Thumbnail.png"
 thumbnail-lqip: "../images/blog/Catharsis/Catharsis - Thumbnail-lqip.png"
 
@@ -15,13 +14,13 @@ heroMedia: "../images/blog/Catharsis/Catharsis.png"
 heroMedia-lqip: "../images/blog/Catharsis/Catharsis-lqip.png"
 ---
 
-Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.
+Catharsis is a project to understand the nuances behind the use of colour in cinematography.
 {: .post-paragraph-embedded}
 
-The Graphical Posters Were Made With The Use Of A Python Script Which Exacts The Most Prominent Colour Out Of Each Frame Of Any Video. For The Love Of Cinematography In Netflix's Maniac (2018), I Decided To Decode All Its Episodes And Represent My Thoughts Behind Each Episode.
+The graphical posters were made with the use of a python script which exacts the most prominent colour out of each frame of any video. For the love of cinematography in Netflix's Maniac (2018), I decided to decode all its episodes and represent my thoughts behind each episode.
 {: .post-paragraph-embedded}
 
-Through This Project, I Was Able To Understand And Learn Python Scripting, Use Of Colour In Films And Set Designs; Their Subsequent Impact On Establishing The Storyline And Character Personas.
+Through this project, I was able to understand and learn python scripting, use of colour in films and set designs; their subsequent impact on establishing the storyline and character personas.
 {: .post-paragraph-embedded}
 
 <div class="post-code"><script src="https://gist.github.com/syskaul/e3cdd39a892d9d5cf2d9827795720c9a.js"></script></div>

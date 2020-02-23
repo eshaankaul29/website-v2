@@ -4,7 +4,6 @@ category: blog
 type: Regular
 
 # Home
-description: Blah
 title: Women In Product Workshop
 summary: Photo Series from a Pottery Village in Delhi
 thumbnail: "../images/blog/WIP/WIP - Thumbnail.png"

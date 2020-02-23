@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Work
-type: Regular
+type: Regular/Locked
 
 # Home
 company: Playment

@@ -1,6 +1,6 @@
 ---
 title: Eshaan Kaul
-summary: Currently designing the Advanz App (Pay Later, EMIs, Cash Loans) & Co-branded Credit Card.
+summary: Currently designing the Advanz App (Pay Later, EMIs..) & Co-branded Credit Card.
 ---
 
 <!DOCTYPE html>
@@ -36,7 +36,7 @@ summary: Currently designing the Advanz App (Pay Later, EMIs, Cash Loans) & Co-b
     <section id="about">
     <section class="about-main">
       <p>
-        Currently designing the Advanz App (Pay Later, EMIs, Cash Loans) & Co-branded Credit Card. 
+        Currently designing the Advanz Ecosystem (Pay Later, EMIs..) & Co-branded Credit Card. 
       </p>
       <p>
         Before joining Flipkart, I was a designer at Playment, and where I worked upon the data annotation crowdsourcing platform and design systems<span><a class="about-span" href="/about.html">...</a></span>
@@ -124,9 +124,13 @@ summary: Currently designing the Advanz App (Pay Later, EMIs, Cash Loans) & Co-b
       <section id="blog">
         <h2>Blog</h2>
           <ol class="list">
-              {% for post in site.posts limit: 8 %} {% if post.categories
-              contains 'blog' %} {% if post.type contains 'Featured' %} {% else
+              {% for post in site.posts limit: 6 %} {% if post.categories
+              contains 'blog' %} {% if
+                post.type contains 'blog' %}{% else
               %}
+
+
+              
               <li class="list-item">
                 <a href="{{ post.url }}">
                     <img

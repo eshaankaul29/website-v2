@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Work
-type: Regular
+type: Regular/Unlocked
 
 # Home
 company: Brisky
