@@ -852,7 +852,7 @@ h2 {
   .home-header-nav > a {
     font: 1.125rem/120% "SF-Pro-Text-Regular", Helvetica, Sans-Serif;
     color: #ffffff;
-    margin-right: 1.2em; }
+    margin-left: 1.5em; }
     .home-header-nav > a:hover {
       opacity: .5;
       transition: all 0.2s ease; }
@@ -893,7 +893,7 @@ h2 {
   .inner-header-nav > a {
     font: 1.125rem/120% "SF-Pro-Text-Regular", Helvetica, Sans-Serif;
     color: #ffffff;
-    margin-right: 1.2em; }
+    margin-left: 1.5em; }
     .inner-header-nav > a:hover {
       opacity: .5;
       transition: all 0.2s ease; }

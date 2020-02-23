@@ -50,7 +50,7 @@
    > a {
       font: $cta;
       color: $white;
-      margin-right: 1.2em;
+      margin-left: $spaceMedium;
 
       &:hover {
          opacity: .5;
