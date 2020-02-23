@@ -23,7 +23,7 @@ overview:
 
 ---
 
-<img src="../images/work/Playment/PDS/PDS - 1-lqip.png" data-src="../images/work/Playment/PDS/PDS - 1.png" class="lazyload blur-up">{: .post-image}
+<img src="../images/work/Playment/PDS/PDS - 1-lqip.png" data-src="../images/work/Playment/PDS/PDS - 1.png" class="lazyload blur-up" alt="Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. Design System, Product Design">{: .post-image}
 Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 
@@ -33,7 +33,7 @@ The Challenges and the Problem Solving are a critical day-to-day operations of a
 Designing for a complex product which involves crowdsourcing was never going to be a piece of cake. Designing an enterprise software is a whole new universe - the constraints, the complexities, the stakeholders, the rules of governance, the features, the functionalities, the technicalities, dozens of personas, and hundreds of use-cases. It's all just amazingly thought-provoking.
 {: .post-paragraph-embedded-last}
 
-<img src="../images/work/Playment/PDS/PDS - 2-lqip.png" data-src="../images/work/Playment/PDS/PDS - 2.png" class="lazyload blur-up">{: .post-image}
+<img src="../images/work/Playment/PDS/PDS - 2-lqip.png" data-src="../images/work/Playment/PDS/PDS - 2.png" class="lazyload blur-up" alt="Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. Design System, Product Design">{: .post-image}
 Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 

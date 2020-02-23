@@ -21,9 +21,9 @@ overview:
 ---
 
 
-<img src="../images/work/Brisky/Images/Brisky_Pitch.001 2.png" data-src="../images/work/Brisky/Images/Brisky_Pitch.001.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image-small-left}
+<img src="../images/work/Brisky/Images/Brisky_Pitch.002 2.png" data-src="../images/work/Brisky/Images/Brisky_Pitch.002.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image-small-left}
 
-<img src="../images/work/Brisky/Images/Brisky_Pitch.002 2.png" data-src="../images/work/Brisky/Images/Brisky_Pitch.002.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image-small-right}<br></br>
+<img src="../images/work/Brisky/Images/Brisky_Pitch.001 2.png" data-src="../images/work/Brisky/Images/Brisky_Pitch.001.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image-small-right}<br></br>
 
 
 During my time at Brisky, I understood the true sense of responsibility that is required to outdo at a startup - it is that moment of your life when you 'Go Big or Go Home'. If you’re in a startup, you do whatever it takes to push things forward. Everyone here did just that. It could just be ordering a water can—whatever needs to get done, you do it. All of which contributes to the entrepreneurial spirit felt throughout the company. My encounter was no different, it was truly vital and the best any fresh graduate student could ask for. This place indeed laid the foundational phase of continuous learning.
@@ -91,10 +91,10 @@ Key Metrics Include: 60 paying clients with ARR of \$40,000. NPS of 76. Achieved
 {: .post-paragraph-embedded}
 
 Download <a href="https://apkpure.com/brisky-party-nightlife-expert/in.co.brisky" target="_blank">Brisky App</a> & <a href="https://play.google.com/store/apps/details?id=in.co.brisky.business&hl=en" target="_blank"> Brisky Business</a>
+{: .post-paragraph-embedded}
+
+Later on, Brisky went on to get accquired by Spoonshot - <a href="https://www.vccircle.com/techstars-accelerator-backed-spoonshot-acquires-analytics-startup-brisky/" target="_blank">Read More</a>
 {: .post-paragraph-embedded-last}
-
-
-
 
 
 <img src="../images/work/Brisky/Images/Image-1 2.png" data-src="../images/work/Brisky/Images/Image-1.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky Team">{: .post-image}
