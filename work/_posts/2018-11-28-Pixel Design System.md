@@ -9,12 +9,12 @@ description: Product Jarvis
 title: Pixel Design System
 summary: Building Playment’s Design System - A React-based UI Component Library on React Storybook.
 thumbnail: ./images/work/Playment/Thumbnail.png
-thumbnail-lqip: ./images/work/Playment/Thumbnail-lqip.png
+
 
 
 # Post
 heroMedia: "../images/work/Playment/0.png"
-heroMedia-lqip: "../images/work/Playment/0-lqip.png"
+
 shippedDate: April 2018 - January 2019
 overview:
   - Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. The motto is to empower companies in the Autonomous Vehicle, Drones, Mapping, and similar spaces with high precision annotation services. We are a young company backed by Y-Combinator and SAIF Partners; we have helped the likes of Nio, Didi Chuxing, University of Washington, Nuro, Drive.ai, and many more to fuel their vision of Autonomous Vehicles.
@@ -23,7 +23,7 @@ overview:
 
 ---
 
-<img src="../images/work/Playment/PDS/PDS - 1-lqip.png" data-src="../images/work/Playment/PDS/PDS - 1.png" class="lazyload blur-up" alt="Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. Design System, Product Design">{: .post-image}
+<img src="../images/work/Playment/PDS/PDS - 1.png" alt="Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. Design System, Product Design">{: .post-image}
 Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 
@@ -33,7 +33,7 @@ The Challenges and the Problem Solving are a critical day-to-day operations of a
 Designing for a complex product which involves crowdsourcing was never going to be a piece of cake. Designing an enterprise software is a whole new universe - the constraints, the complexities, the stakeholders, the rules of governance, the features, the functionalities, the technicalities, dozens of personas, and hundreds of use-cases. It's all just amazingly thought-provoking.
 {: .post-paragraph-embedded-last}
 
-<img src="../images/work/Playment/PDS/PDS - 2-lqip.png" data-src="../images/work/Playment/PDS/PDS - 2.png" class="lazyload blur-up" alt="Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. Design System, Product Design">{: .post-image}
+<img src="../images/work/Playment/PDS/PDS - 2.png" alt="Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. Design System, Product Design">{: .post-image}
 Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 

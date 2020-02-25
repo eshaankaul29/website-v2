@@ -9,11 +9,11 @@ description: Blah
 title: Brisky App & Business
 summary: Brisky is a recommendation platform that connects people with local experts for personalized recommendations.
 thumbnail: ./images/work/Brisky/Images/Thumbnail.png
-thumbnail-lqip: ./images/work/Brisky/Images/Thumbnail-lqip.png
+
 
 # Post
 heroMedia: "../images/work/Brisky/Images/0.png"
-heroMedia-lqip: "../images/work/Brisky/Images/0-lqip.png"
+
 shippedDate: September 2016 - April 2017
 overview:
   - Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.
@@ -21,9 +21,9 @@ overview:
 ---
 
 
-<img src="../images/work/Brisky/Images/Brisky_Pitch.002 2.png" data-src="../images/work/Brisky/Images/Brisky_Pitch.002.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image-small-left}
+<img src="../images/work/Brisky/Images/Brisky_Pitch.002.png" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image-small-left}
 
-<img src="../images/work/Brisky/Images/Brisky_Pitch.001 2.png" data-src="../images/work/Brisky/Images/Brisky_Pitch.001.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image-small-right}<br></br>
+<img src="../images/work/Brisky/Images/Brisky_Pitch.001.png" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you.">{: .post-image-small-right}<br></br>
 
 
 During my time at Brisky, I understood the true sense of responsibility that is required to outdo at a startup - it is that moment of your life when you 'Go Big or Go Home'. If you’re in a startup, you do whatever it takes to push things forward. Everyone here did just that. It could just be ordering a water can—whatever needs to get done, you do it. All of which contributes to the entrepreneurial spirit felt throughout the company. My encounter was no different, it was truly vital and the best any fresh graduate student could ask for. This place indeed laid the foundational phase of continuous learning.
@@ -38,7 +38,7 @@ My experience at Brisky was nothing short of that of a life-changing one. Firstl
 Secondly, because I was working closely with <a href="https://www.linkedin.com/in/jatin-bhatia-45609353/" target="_blank">Jatin Bhatia</a>, who single-handed pushed me to think beyond the conventional means, from first principles and mentored me into the Startup Ecosystem.
 {: .post-paragraph-embedded-last}
 
-<img src="../images/work/Brisky/Images/4-lqip.png" data-src="../images/work/Brisky/Images/4.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Conceptualizing & Wireframing">{: .post-image}
+<img src="../images/work/Brisky/Images/4.png" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Conceptualizing & Wireframing">{: .post-image}
 Conceptualizing & Wireframing
 {: .post-caption}
 
@@ -63,18 +63,18 @@ To create an engaging browsing experience we needed to design an onboarding proc
 {: .post-paragraph-embedded-last}
 Brisky-IA
 
-<img src="../images/work/Brisky/Images/Brisky-IA-lqip.png" data-src="../images/work/Brisky/Images/Brisky-IA.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - Information Architecture">{: .post-image}
+<img src="../images/work/Brisky/Images/Brisky-IA.png" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - Information Architecture">{: .post-image}
 Brisky App - Information Architecture
 {: .post-caption}
 
-<img src="../images/work/Brisky/Images/2-lqip.png" data-src="../images/work/Brisky/Images/2.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - User Interface Design">{: .post-image}
+<img src="../images/work/Brisky/Images/2.png" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - User Interface Design">{: .post-image}
 
-<img src="../images/work/Brisky/Images/3-lqip.png" data-src="../images/work/Brisky/Images/3.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - User Interface Design">{: .post-image}
+<img src="../images/work/Brisky/Images/3.png" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - User Interface Design">{: .post-image}
 Brisky App - User Interfaces
 {: .post-caption}
 
 
-<img src="../images/work/Brisky/Images/collage-brisky 2.png" data-src="../images/work/Brisky/Images/collage-brisky.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - User Interface Design">{: .post-image}
+<img src="../images/work/Brisky/Images/collage-brisky.png" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky App - User Interface Design">{: .post-image}
 Brisky Social Ideation
 {: .post-caption}
 
@@ -97,6 +97,6 @@ Later on, Brisky went on to get accquired by Spoonshot - <a href="https://www.vc
 {: .post-paragraph-embedded-last}
 
 
-<img src="../images/work/Brisky/Images/Image-1 2.png" data-src="../images/work/Brisky/Images/Image-1.png" class="lazyload blur-up" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky Team">{: .post-image}
+<img src="../images/work/Brisky/Images/Image-1.png" alt="Brisky is a recommendation platform that connects people with local experts for personalized recommendations. It also provides real-time information about what is happening at pubs around you. Brisky Team">{: .post-image}
 Products aren't built just as a function of the singular team, but when shots are fired from all cylinders. - Jatin Bhatia
 {: .post-caption}
