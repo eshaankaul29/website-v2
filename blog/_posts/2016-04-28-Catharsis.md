@@ -6,11 +6,11 @@ type: Regular
 # Home
 title: Catharsis - Use Of Colour In Cinematography
 summary: Catharsis is a project to understand the nuances behind the use of colour in cinematography
-thumbnail: https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744418/Catharsis/Catharsis_-_Thumbnail_tlo7rj.png
+thumbnail: https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744418/Catharsis/Catharsis_-_Thumbnail_tlo7rj.png
 
 
 # Post
-heroMedia: https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744419/Catharsis/Catharsis_tqff6a.png
+heroMedia: https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744419/Catharsis/Catharsis_tqff6a.png
 
 ---
 
@@ -27,13 +27,13 @@ Through this project, I was able to understand and learn python scripting, use o
 
 
 
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744432/Catharsis/catharsis-1_qnd1cu.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744431/Catharsis/catharsis-2_f5ce7p.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744433/Catharsis/catharsis-3_xtv9p2.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744433/Catharsis/catharsis-4_mn6n73.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744432/Catharsis/catharsis-5_uhndp8.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744433/Catharsis/catharsis-6_p4deyi.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744432/Catharsis/catharsis-7_o1j0qe.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744433/Catharsis/catharsis-8_iun3nh.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744433/Catharsis/catharsis-9_haadgk.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582744433/Catharsis/catharsis-10_su58u6.png"  alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744432/Catharsis/catharsis-1_qnd1cu.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744431/Catharsis/catharsis-2_f5ce7p.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744433/Catharsis/catharsis-3_xtv9p2.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744433/Catharsis/catharsis-4_mn6n73.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744432/Catharsis/catharsis-5_uhndp8.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744433/Catharsis/catharsis-6_p4deyi.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744432/Catharsis/catharsis-7_o1j0qe.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744433/Catharsis/catharsis-8_iun3nh.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744433/Catharsis/catharsis-9_haadgk.png" alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-left}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582744433/Catharsis/catharsis-10_su58u6.png"  alt="Catharsis Is A Project Started To Understand The Nuances Behind The Use Of Colour In Cinematography.">{: .post-image-small-right}

@@ -8,12 +8,12 @@ company: Playment
 description: Product Jarvis
 title: Pixel Design System
 summary: Building Playment’s Design System - A React-based UI Component Library on React Storybook.
-thumbnail: https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582746595/PDS/Thumbnail_ddlwal.png
+thumbnail: https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746595/PDS/Thumbnail_ddlwal.png
 
 
 
 # Post
-heroMedia: https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582746595/PDS/0_z6wimk.png
+heroMedia: https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746595/PDS/0_z6wimk.png
 
 shippedDate: April 2018 - January 2019
 overview:
@@ -23,7 +23,7 @@ overview:
 
 ---
 
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582746598/PDS/PDS_-_1_hladrl.png" alt="Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. Design System, Product Design">{: .post-image}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746598/PDS/PDS_-_1_hladrl.png" alt="Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. Design System, Product Design">{: .post-image}
 Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 
@@ -33,7 +33,7 @@ The Challenges and the Problem Solving are a critical day-to-day operations of a
 Designing for a complex product which involves crowdsourcing was never going to be a piece of cake. Designing an enterprise software is a whole new universe - the constraints, the complexities, the stakeholders, the rules of governance, the features, the functionalities, the technicalities, dozens of personas, and hundreds of use-cases. It's all just amazingly thought-provoking.
 {: .post-paragraph-embedded-last}
 
-<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/w_1000,fl_progressive/v1582746601/PDS/PDS_-_2_u3oa5l.png" alt="Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. Design System, Product Design">{: .post-image}
+<img src="https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746601/PDS/PDS_-_2_u3oa5l.png" alt="Playment is a fully managed data labeling platform that generates training data for computer vision models at scale using crowdsourcing. Design System, Product Design">{: .post-image}
 Portion of the first Nomad prototype, built in Swift.
 {: .post-caption}
 
