@@ -8,11 +8,11 @@ company: Brisky
 description: Blah
 title: Brisky App & Business
 summary: Brisky is a recommendation platform that connects people with local experts for personalized recommendations.
-thumbnail: https://res.cloudinary.com/dz8f2hn5i/image/fl_progressive/upload/fl_progressive/v1582746049/Brisky/Thumbnail_vdmcue.png
+thumbnail: https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746049/Brisky/Thumbnail_vdmcue.png
 
 
 # Post
-heroMedia: https://res.cloudinary.com/dz8f2hn5i/image/fl_progressive/upload/fl_progressive/v1582746047/Brisky/0_sq3whg.png
+heroMedia: https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746047/Brisky/0_sq3whg.png
 
 shippedDate: September 2016 - April 2017
 overview:
