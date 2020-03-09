@@ -18,16 +18,16 @@ $(document).ready(function(){
 
   setTimeout(function(){
      introGreeting.addClass('intro-loaded');
-  },500)
+  },250)
 
   setTimeout(function(){
      introBio.addClass('intro-loaded');
-  },1700)
+  },800)
 
   setTimeout(function(){
      header.addClass('home-header-loaded');
      introScroll.addClass('intro-scroll-loaded');
-  },2500)
+  },1400)
 
  $(window).on('scroll', function() {
     var scrollPosition = $(this).scrollTop();
