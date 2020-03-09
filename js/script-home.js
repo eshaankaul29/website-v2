@@ -22,12 +22,12 @@ $(document).ready(function(){
 
   setTimeout(function(){
      introBio.addClass('intro-loaded');
-  },800)
+  },1000)
 
   setTimeout(function(){
      header.addClass('home-header-loaded');
      introScroll.addClass('intro-scroll-loaded');
-  },1400)
+  },1500)
 
  $(window).on('scroll', function() {
     var scrollPosition = $(this).scrollTop();
