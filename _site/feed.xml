@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-15T22:06:25+05:30</updated><id>http://localhost:4000//</id><title type="html">The Portfolio of Eshaan Kaul</title><subtitle>Eshaan Kaul is a Product Designer at Flipkart working on Payments &amp; Fintech - Pay Later, Cardless Credit &amp; Co-branded Credit Card. </subtitle><entry><title type="html">Advanz</title><link href="http://localhost:4000/work/Advanz.html" rel="alternate" type="text/html" title="Advanz" /><published>2019-10-01T00:00:00+05:30</published><updated>2019-10-01T00:00:00+05:30</updated><id>http://localhost:4000/work/Advanz</id><content type="html" xml:base="http://localhost:4000/work/Advanz.html"></content><category term="Work" /><summary type="html"></summary></entry><entry><title type="html">Silent Authentication</title><link href="http://localhost:4000/work/SA.html" rel="alternate" type="text/html" title="Silent Authentication" /><published>2019-08-14T00:00:00+05:30</published><updated>2019-08-14T00:00:00+05:30</updated><id>http://localhost:4000/work/SA</id><content type="html" xml:base="http://localhost:4000/work/SA.html">&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Silent Authentication&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-15T22:09:14+05:30</updated><id>http://localhost:4000//</id><title type="html">The Portfolio of Eshaan Kaul</title><subtitle>Eshaan Kaul is a Product Designer at Flipkart working on Payments &amp; Fintech - Pay Later, Cardless Credit &amp; Co-branded Credit Card. </subtitle><entry><title type="html">Advanz</title><link href="http://localhost:4000/work/Advanz.html" rel="alternate" type="text/html" title="Advanz" /><published>2019-10-01T00:00:00+05:30</published><updated>2019-10-01T00:00:00+05:30</updated><id>http://localhost:4000/work/Advanz</id><content type="html" xml:base="http://localhost:4000/work/Advanz.html"></content><category term="Work" /><summary type="html"></summary></entry><entry><title type="html">Silent Authentication</title><link href="http://localhost:4000/work/SA.html" rel="alternate" type="text/html" title="Silent Authentication" /><published>2019-08-14T00:00:00+05:30</published><updated>2019-08-14T00:00:00+05:30</updated><id>http://localhost:4000/work/SA</id><content type="html" xml:base="http://localhost:4000/work/SA.html">&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Silent Authentication&lt;/p&gt;
 
 &lt;p class=&quot;post-paragraph-embedded&quot;&gt;Adding a place pulls in associated metadata from Apple Maps and gives you a chance to leave a brief note alongside the place, which can be edited later. This note is a good way to remember something key to the experience and it will be visible to those with whom you share the place.&lt;/p&gt;
 
-&lt;p class=&quot;post-paragraph-embedded&quot;&gt;Both collections and places can be shared. Sharing a collection takes place from the top-level collection view and utilizes your contacts.&lt;/p&gt;
-
-&lt;p class=&quot;post-paragraph-embedded-last&quot;&gt;After accepting the sender’s invitation, the receiver’s app imports the sender’s collection, which is visually delineated from the collections the receiver has created on their own.&lt;/p&gt;
+&lt;p class=&quot;post-paragraph-embedded-last&quot;&gt;Both collections and places can be shared. Sharing a collection takes place from the top-level collection view and utilizes your contacts.&lt;/p&gt;
 
 &lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1584268570/Silent%20Auth/1_yoykly.png&quot; class=&quot;post-image&quot; /&gt;
 UX Goals&lt;/p&gt;
+
+&lt;p class=&quot;post-paragraph-embedded-last&quot;&gt;After accepting the sender’s invitation, the receiver’s app imports the sender’s collection, which is visually delineated from the collections the receiver has created on their own.&lt;/p&gt;
+
+&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1584287296/Silent%20Auth/SA-Artefacts_e9cdsg.png&quot; class=&quot;post-image&quot; /&gt;
+Comms Artefacts&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1584269053/Silent%20Auth/4_1_dvqucv.png&quot; class=&quot;post-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1584268584/Silent%20Auth/2_dakdag.png&quot; class=&quot;post-image&quot; /&gt;
 Enrollment Flows for New Card &amp;amp; Saved Cards&lt;/p&gt;
 
 &lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1584268584/Silent%20Auth/3_husvue.png&quot; class=&quot;post-image&quot; /&gt;
 Return Journey&lt;/p&gt;
-
-&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1584287296/Silent%20Auth/SA-Artefacts_e9cdsg.png&quot; class=&quot;post-image&quot; /&gt;
-Comms Artefacts&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1584269053/Silent%20Auth/4_1_dvqucv.png&quot; class=&quot;post-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p class=&quot;post-paragraph-embedded-quote&quot;&gt;“Friction is bad. We try to eliminate it. But, it has a purpose. It protects against risk. OTPs, credit checks, ref checks -have friction that protects. The art of removing friction - respect its role, find alternatives that manage risk &amp;amp; then slay it.”&lt;/p&gt;
 
