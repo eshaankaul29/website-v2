@@ -52,25 +52,25 @@
   src: url("../fonts/SF-Pro-Text-Medium.woff") format("woff");
   font-weight: normal;
   font-style: normal;
-  font-display: auto; }
+  font-display: swap; }
 @font-face {
   font-family: 'SF-Pro-Text-Regular';
   src: url("../fonts/SF-Pro-Text-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
-  font-display: auto; }
+  font-display: swap; }
 @font-face {
   font-family: 'SF-Pro-Text-RegularItalic';
   src: url("../fonts/SF-Pro-Text-RegularItalic.woff") format("woff");
   font-weight: normal;
   font-style: normal;
-  font-display: auto; }
+  font-display: swap; }
 @font-face {
   font-family: 'NewYorkExtraLarge-Medium';
   src: url("../fonts/NewYorkExtraLarge-Medium.woff") format("woff");
   font-weight: normal;
   font-style: normal;
-  font-display: auto; }
+  font-display: swap; }
 body {
   background-color: #131313;
   height: 100%;
