@@ -52,7 +52,7 @@ summary: Currently designing the Advanz Ecosystem (Pay Later, EMIs..) & Co-brand
           {% for post in site.posts limit: 1 %} {% if post.categories contains
           'work' %} {% if post.type contains 'Featured' %}
           <li class="tile-work-featured">
-            <a>
+            <a href="{{ post.url }}">
               <img class="tile-work-thumbnail-featured" src="{{ post.thumbnail-desk }}" alt="{{ post.summary }}"/>
 
                 <img class="tile-work-thumbnail-featured-mobile" src="{{ post.thumbnail-mob }}" alt="{{ post.summary }}"/>
@@ -63,9 +63,7 @@ summary: Currently designing the Advanz Ecosystem (Pay Later, EMIs..) & Co-brand
                 }}</span>
                 <h2 class="tile-work-description-title">{{ post.title }}</h2>
                 <p class="tile-work-description-summary">{{ post.summary }}</p>
-                <button class="tile-work-cta-disabled">
-                  <svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m15 2h-2v-2h-3v2h-4v-2h-3v2h-2c-.552 0-1 .448-1 1v12c0 .552.448 1 1 1h14c.552 0 1-.448 1-1v-12c0-.552-.448-1-1-1zm-1 12h-12v-7h12z" fill="#fff"/></svg>Coming Soon
-                </button>
+                <button class="tile-work-cta">Read More</button>
               </div>
             </a>
           </li>
