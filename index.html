@@ -26,7 +26,7 @@ summary: Currently designing the Advanz Ecosystem (Pay Later, EMIs..) & Co-brand
         <section class="intro">
           <h1 class="intro-greeting">Hi, I'm Eshaan.</h1>
           <span class="intro-bio"
-            >Product Designer at Flipkart working on Fintech</span>
+            >Product Designer</span>
         </section>
         
       </div>
@@ -36,7 +36,7 @@ summary: Currently designing the Advanz Ecosystem (Pay Later, EMIs..) & Co-brand
     <section id="about">
     <section class="about-main">
       <p>
-        Before joining Flipkart, I was a designer at Playment, and where I worked upon the data annotation crowdsourcing platform and design systems<span><a class="about-span" href="/about.html">...</a></span>
+        I was a part of the Conversational Assistant and Fintech team at Flipkart. Prior to that, I was a designer at Playment, and where I worked upon the data annotation crowdsourcing platform and design systems<span><a class="about-span" href="/about.html">...</a></span>
       </p>
     </section></section>
 
@@ -49,7 +49,7 @@ summary: Currently designing the Advanz Ecosystem (Pay Later, EMIs..) & Co-brand
       <section id="work">
         <h2>Work</h2>
         <ol>
-          {% for post in site.posts limit: 1 %} {% if post.categories contains
+          {% for post in site.posts limit: 4 %} {% if post.categories contains
           'work' %} {% if post.type contains 'Featured' %}
           <li class="tile-work-featured">
             <a href="{{ post.url }}">
@@ -117,7 +117,7 @@ summary: Currently designing the Advanz Ecosystem (Pay Later, EMIs..) & Co-brand
       <section id="blog">
         <h2>Blog</h2>
           <ol class="list">
-              {% for post in site.posts limit: 6 %} {% if post.categories
+              {% for post in site.posts limit: 8 %} {% if post.categories
               contains 'blog' %} {% if
                 post.type contains 'blog' %}{% else
               %}
