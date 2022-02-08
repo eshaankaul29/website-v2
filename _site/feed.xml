@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-08T12:08:39+05:30</updated><id>http://localhost:4000//</id><title type="html">The Portfolio of Eshaan Kaul</title><subtitle>Eshaan Kaul is a Product Designer at Flipkart working on Payments &amp; Fintech - Pay Later, Cardless Credit &amp; Co-branded Credit Card. </subtitle><entry><title type="html">Flipkart Pay Later and EMIs</title><link href="http://localhost:4000/work/CF.html" rel="alternate" type="text/html" title="Flipkart Pay Later and EMIs" /><published>2019-06-14T00:00:00+05:30</published><updated>2019-06-14T00:00:00+05:30</updated><id>http://localhost:4000/work/CF</id><content type="html" xml:base="http://localhost:4000/work/CF.html">&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;How will it benefit the customers?&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-08T12:10:27+05:30</updated><id>http://localhost:4000//</id><title type="html">The Portfolio of Eshaan Kaul</title><subtitle>Eshaan Kaul is a Product Designer at Flipkart working on Payments &amp; Fintech - Pay Later, Cardless Credit &amp; Co-branded Credit Card. </subtitle><entry><title type="html">Flipkart Pay Later and EMIs</title><link href="http://localhost:4000/work/CF.html" rel="alternate" type="text/html" title="Flipkart Pay Later and EMIs" /><published>2019-06-14T00:00:00+05:30</published><updated>2019-06-14T00:00:00+05:30</updated><id>http://localhost:4000/work/CF</id><content type="html" xml:base="http://localhost:4000/work/CF.html">&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;How will it benefit the customers?&lt;/p&gt;
 
 &lt;p class=&quot;post-paragraph-embedded&quot;&gt;Partial Payment provides a superior customer experience by empowering the customers to bring their credit needs and repayment terms under their own control, preventing them from getting over budget and giving a lifeline to the customers in situations of distress. A customer can avail this option on or before the due date by paying a minimum due amount (including convenience fee) to get the following benefits:1. Extra credit period up to 30-days 2. No Late Payment charges 3.No collection reminders/calls 4.No negative reporting to the credit bureau Continued transactions on Pay Later account.&lt;/p&gt;
 
@@ -12,11 +12,11 @@ b) Ties back to the uber goal of improving affordability on the Flipkart platfor
 Partial Payments User Interfaces&lt;/p&gt;
 
 &lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/v1582745869/WIP/collage-wip_bvjkdi.png&quot; class=&quot;post-image&quot; /&gt;
-I co-organized a workshop with a product manager in the &lt;code class=&quot;highlighter-rouge&quot;&gt;Building for Bharat&lt;/code&gt; event on Financial Inclusion&lt;/p&gt;
+I co-organized a workshop with a product manager in the Building for Bharat event on Financial Inclusion&lt;/p&gt;
 
 &lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Impact&lt;/p&gt;
 
-&lt;p class=&quot;post-paragraph-embedded-last&quot;&gt;~5% users adopted the partial payment feature in the first two months of launch. Flipkart collected a convenience fee of over INR 2cr in profits during the same duration.&lt;/p&gt;
+&lt;p class=&quot;post-paragraph-embedded-last&quot;&gt;~5% users adopted the partial payment feature in the first two months of launch.&lt;/p&gt;
 
 &lt;div class=&quot;post-embed&quot;&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZUS-Lq4fKAg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -74,7 +74,7 @@ Flipkart’s Grocery Voice Assistant UI&lt;/p&gt;
 &lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Flippi’s Visual Identity Principles&lt;/p&gt;
 
 &lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/v1644298832/AD-2_nh00kr.png&quot; class=&quot;post-image&quot; /&gt;
-Flippi’s Avatars - I collaborated with an agency to develop a brand visual identity/characterization for the voice identity of Flipii&lt;/p&gt;
+Flippi’s Avatars - I collaborated with an agency to develop a brand visual identity/characterization for the voice identity of Flippi&lt;/p&gt;
 
 &lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Growth for Voice Search&lt;/p&gt;
 
