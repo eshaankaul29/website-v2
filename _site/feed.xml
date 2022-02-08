@@ -1,6 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-07T23:14:22+05:30</updated><id>http://localhost:4000//</id><title type="html">The Portfolio of Eshaan Kaul</title><subtitle>Eshaan Kaul is a Product Designer at Flipkart working on Payments &amp; Fintech - Pay Later, Cardless Credit &amp; Co-branded Credit Card. </subtitle><entry><title type="html">Flipkart Pay Later and EMIs</title><link href="http://localhost:4000/work/CF.html" rel="alternate" type="text/html" title="Flipkart Pay Later and EMIs" /><published>2019-06-14T00:00:00+05:30</published><updated>2019-06-14T00:00:00+05:30</updated><id>http://localhost:4000/work/CF</id><content type="html" xml:base="http://localhost:4000/work/CF.html">&lt;div class=&quot;post-embed&quot;&gt;
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/cbAVNIjsTpmCIo&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/eshaankaul29/xml-based-full-kyc&quot; title=&quot;XML based Full KYC&quot; target=&quot;_blank&quot;&gt;XML based Full KYC&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/eshaankaul29&quot; target=&quot;_blank&quot;&gt;Eshaan Kaul&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
-&lt;/div&gt;</content><category term="Work" /><summary type="html">XML based Full KYC  from Eshaan Kaul</summary></entry><entry><title type="html">Flipkart Co-Branded Credit Card</title><link href="http://localhost:4000/work/CBC.html" rel="alternate" type="text/html" title="Flipkart Co-Branded Credit Card" /><published>2019-06-14T00:00:00+05:30</published><updated>2019-06-14T00:00:00+05:30</updated><id>http://localhost:4000/work/CBC</id><content type="html" xml:base="http://localhost:4000/work/CBC.html">&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746694/CBC/cards_j4abtq.jpg&quot; class=&quot;post-image&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.6.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-08T11:59:39+05:30</updated><id>http://localhost:4000//</id><title type="html">The Portfolio of Eshaan Kaul</title><subtitle>Eshaan Kaul is a Product Designer at Flipkart working on Payments &amp; Fintech - Pay Later, Cardless Credit &amp; Co-branded Credit Card. </subtitle><entry><title type="html">Flipkart Pay Later and EMIs</title><link href="http://localhost:4000/work/CF.html" rel="alternate" type="text/html" title="Flipkart Pay Later and EMIs" /><published>2019-06-14T00:00:00+05:30</published><updated>2019-06-14T00:00:00+05:30</updated><id>http://localhost:4000/work/CF</id><content type="html" xml:base="http://localhost:4000/work/CF.html">&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;How will it benefit the customers?&lt;/p&gt;
+
+&lt;p class=&quot;post-paragraph-embedded&quot;&gt;Partial Payment provides a superior customer experience by empowering the customers to bring their credit needs and repayment terms under their own control, preventing them from getting over budget and giving a lifeline to the customers in situations of distress. A customer can avail this option on or before the due date by paying a minimum due amount (including convenience fee) to get the following benefits:1. Extra credit period up to 30-days 2. No Late Payment charges 3.No collection reminders/calls 4.No negative reporting to the credit bureau Continued transactions on Pay Later account.&lt;/p&gt;
+
+&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;How will it help Flipkart?&lt;/p&gt;
+
+&lt;p class=&quot;post-paragraph-embedded-last&quot;&gt;Partial Payment serves a two-pronged goal for Flipkart:
+a) Making the Pay Later product self-sustainable through the monetization construct in the form of convenience fee charged to customers to avail this facility to extend the payback period of their outstanding bill and avail extra credit over and above the initial credit period
+b) Ties back to the uber goal of improving affordability on the Flipkart platform by enabling the customers to manage unforeseen expenses using the credit construct. It also provides an opportunity to reward high payback intent and increase the trust of the customer on the platform.&lt;/p&gt;
+
+&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/v1644299153/CF-2_jcwwjm.png&quot; class=&quot;post-image&quot; /&gt;
+Partial Payments User Interfaces&lt;/p&gt;
+
+&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/v1582745869/WIP/collage-wip_bvjkdi.png&quot; class=&quot;post-image&quot; /&gt;
+I co-organized a workshop with a product manager in the &lt;code class=&quot;highlighter-rouge&quot;&gt;Building for Bharat&lt;/code&gt; event on Financial Inclusion&lt;/p&gt;
+
+&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Impact&lt;/p&gt;
+
+&lt;p class=&quot;post-paragraph-embedded-last&quot;&gt;~5% users adopted the partial payment feature in the first two months of launch. Flipkart collected a convenience fee of over INR 2cr in profits during the same duration.&lt;/p&gt;
+
+&lt;div class=&quot;post-embed&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ZUS-Lq4fKAg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;post-caption&quot;&gt;In 2019, our product team (product managers, user researchers and product designer) set out in the field to study the experiences of emerging India with loan applications and banking.&lt;/p&gt;
+
+&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/v1644299156/CF-1_xzlq9d.png&quot; class=&quot;post-image&quot; /&gt;
+Redesign of Pay Later and Advanz EMIs application jounrey for the new Advanz App&lt;/p&gt;
+
+&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;XML-based Know-Your-Customer (KYC)&lt;/p&gt;
+
+&lt;div class=&quot;post-embed&quot;&gt;
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/cbAVNIjsTpmCIo&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/eshaankaul29/xml-based-full-kyc&quot; title=&quot;XML based Full KYC&quot; target=&quot;_blank&quot;&gt;XML based Full KYC&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/eshaankaul29&quot; target=&quot;_blank&quot;&gt;Eshaan Kaul&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;/div&gt;</content><category term="Work" /><summary type="html">How will it benefit the customers?</summary></entry><entry><title type="html">Flipkart Co-Branded Credit Card</title><link href="http://localhost:4000/work/CBC.html" rel="alternate" type="text/html" title="Flipkart Co-Branded Credit Card" /><published>2019-06-14T00:00:00+05:30</published><updated>2019-06-14T00:00:00+05:30</updated><id>http://localhost:4000/work/CBC</id><content type="html" xml:base="http://localhost:4000/work/CBC.html">&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746694/CBC/cards_j4abtq.jpg&quot; class=&quot;post-image&quot; /&gt;
 Card Designs Research Activity&lt;/p&gt;
 
 &lt;p class=&quot;post-paragraph-embedded&quot;&gt;As a product designer on the CBC team I was on the field, doing research before Flipkart’s Co-branded Card (CBC) went live. We were in Bhopal, India talking to cardholders (Credit or debit), understanding their delight and pain points. ​The objective of the study is threefold: 1. Test the value proposition of Flipkart’s upcoming CBC. 2. Test Usability of CBC Application process. 3. Find benefits that resonate most with the users and can be launched in v1.​&lt;/p&gt;
@@ -13,10 +44,45 @@ Wireframes and Conceptualisation&lt;/p&gt;
 &lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746695/CBC/collage-cbc_pfzbjs.png&quot; class=&quot;post-image&quot; /&gt;
 User Research Study for CBC&lt;/p&gt;
 
-&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746695/CBC/IMG_0429_beuq7z.jpg&quot; class=&quot;post-image&quot; /&gt;
-CBC Team&lt;/p&gt;</content><category term="Work" /><summary type="html">Card Designs Research Activity</summary></entry><entry><title type="html">Flippi - Multi-modal Conversational Assistant</title><link href="http://localhost:4000/work/AD.html" rel="alternate" type="text/html" title="Flippi - Multi-modal Conversational Assistant" /><published>2019-06-14T00:00:00+05:30</published><updated>2019-06-14T00:00:00+05:30</updated><id>http://localhost:4000/work/AD</id><content type="html" xml:base="http://localhost:4000/work/AD.html">&lt;div class=&quot;post-embed&quot;&gt;
+&lt;p class=&quot;post-paragraph-embedded-last&quot;&gt;I was responsible for designing the lead generation or application journey of the credit card on Flipkart app and its credit card console - a single source of truth for all card management related tasks.&lt;/p&gt;
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/uDx1L4psITJFS5&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/eshaankaul29/grocery-merge&quot; title=&quot;Grocery Merge&quot; target=&quot;_blank&quot;&gt;Grocery Merge&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/eshaankaul29&quot; target=&quot;_blank&quot;&gt;Eshaan Kaul&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/div&gt;</content><category term="Work" /><summary type="html"></summary></entry><entry><title type="html">Kochi</title><link href="http://localhost:4000/blog/Kochi.html" rel="alternate" type="text/html" title="Kochi" /><published>2019-04-10T00:00:00+05:30</published><updated>2019-04-10T00:00:00+05:30</updated><id>http://localhost:4000/blog/Kochi</id><content type="html" xml:base="http://localhost:4000/blog/Kochi.html">&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Fort Kochi&lt;/p&gt;
+&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/v1644298833/CBC-2_mlvhzr.png&quot; class=&quot;post-image&quot; /&gt;
+View Public Worklog - https://www.notion.so/syskaul/Co-Branded-Card-1503cae334f849a5846dffd019815739&lt;/p&gt;
+
+&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/v1644298832/CBC-1_c5etph.png&quot; class=&quot;post-image&quot; /&gt;
+Lead Generation and Credit Card Console User Interfaces&lt;/p&gt;
+
+&lt;p class=&quot;post-paragraph-embedded-last&quot;&gt;We launched the co-branded card and scaled to issue 890,000 cards which in turn delivered an INR 50cr bottom line for Flipkart and INR 4900cr overall spends in the market.&lt;/p&gt;
+
+&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/fl_progressive/v1582746695/CBC/IMG_0429_beuq7z.jpg&quot; class=&quot;post-image&quot; /&gt;
+CBC Team&lt;/p&gt;</content><category term="Work" /><summary type="html">Card Designs Research Activity</summary></entry><entry><title type="html">Flippi - Multi-modal Conversational Assistant</title><link href="http://localhost:4000/work/AD.html" rel="alternate" type="text/html" title="Flippi - Multi-modal Conversational Assistant" /><published>2019-06-14T00:00:00+05:30</published><updated>2019-06-14T00:00:00+05:30</updated><id>http://localhost:4000/work/AD</id><content type="html" xml:base="http://localhost:4000/work/AD.html">&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Grocery Assistant&lt;/p&gt;
+
+&lt;p class=&quot;post-paragraph-embedded-last&quot;&gt;As a product designer, in the Conversation Assistant team, I led the Voice User Interaction (VUI) design to solve the identified gaps in the interaction model.  I collaborated with the developers and conversational designers to realize this solution, as we tried to effectively optimize the interplay of touch and voice modalities within the constraints of what a low-end device could offer us.&lt;/p&gt;
+
+&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/v1644298832/AD-3_bmbzdh.png&quot; class=&quot;post-image&quot; /&gt;
+Since I was building a multi modal voice interface for the first time, I made sure I captured all my learning; View Public Worklog ➝https://syskaul.notion.site/Assistant-Design-cfb94c1063e74edf912a17822ee1f4e6&lt;/p&gt;
+
+&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/v1644298832/AD-1_mcgglt.png&quot; class=&quot;post-image&quot; /&gt;
+Flipkart’s Grocery Voice Assistant UI&lt;/p&gt;
+
+&lt;div class=&quot;post-embed&quot;&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/uDx1L4psITJFS5&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/eshaankaul29/grocery-merge&quot; title=&quot;Grocery Merge&quot; target=&quot;_blank&quot;&gt;Grocery Merge&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/eshaankaul29&quot; target=&quot;_blank&quot;&gt;Eshaan Kaul&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Flippi’s Visual Identity Principles&lt;/p&gt;
+
+&lt;p class=&quot;post-caption&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/dz8f2hn5i/image/upload/v1644298832/AD-2_nh00kr.png&quot; class=&quot;post-image&quot; /&gt;
+Flippi’s Avatars - I collaborated with an agency to develop a brand visual identity/characterization for the voice identity of Flipii&lt;/p&gt;
+
+&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Growth for Voice Search&lt;/p&gt;
+
+&lt;div class=&quot;post-embed&quot;&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/aXIgZukaMUpnpj&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;//www.slideshare.net/eshaankaul29/voice-search-251129388&quot; title=&quot;Voice Search&quot; target=&quot;_blank&quot;&gt;Voice Search&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;//www.slideshare.net/eshaankaul29&quot; target=&quot;_blank&quot;&gt;Eshaan Kaul&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;/div&gt;</content><category term="Work" /><summary type="html">Grocery Assistant</summary></entry><entry><title type="html">Kochi</title><link href="http://localhost:4000/blog/Kochi.html" rel="alternate" type="text/html" title="Kochi" /><published>2019-04-10T00:00:00+05:30</published><updated>2019-04-10T00:00:00+05:30</updated><id>http://localhost:4000/blog/Kochi</id><content type="html" xml:base="http://localhost:4000/blog/Kochi.html">&lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Fort Kochi&lt;/p&gt;
 
 &lt;p class=&quot;post-paragraph-embedded-title&quot;&gt;Photographs from Kochi-Muziris Biennale, 2019&lt;/p&gt;
 
